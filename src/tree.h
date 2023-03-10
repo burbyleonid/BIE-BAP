@@ -6,7 +6,7 @@
 #include "lexan.h"
 
 
-#define PLUS_INF (100)
+#define PLUS_INF (250)
 #define MINUS_INF (-PLUS_INF)
 #define NODE_CONSTR_NAME ("___nodeConstr")
 

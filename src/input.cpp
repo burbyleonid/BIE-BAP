@@ -2,6 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include<iostream>
 
 #define MAX_LINE_LENGTH 257
 
@@ -22,7 +23,7 @@ int initInput(char* fileName) {
   } else {
     inputFile = fopen(fileName, "rt");
     if (!inputFile) {
-      printf("Input file %s not found.\n", fileName);
+      std::cout << "Input file " << fileName << " not found." << std::endl;
       return 0;
     }
   }

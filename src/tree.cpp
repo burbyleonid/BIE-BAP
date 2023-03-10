@@ -1,6 +1,6 @@
 #include "tree.h"
 #include<iostream>
-
+#include <algorithm>
 
 int LogErrorV(const char* Str) {
   std::cerr << "Error: " << Str << std::endl;
@@ -92,10 +92,24 @@ std::map<std::string, Constraint> BinOp::getConstraints(const std::vector<Node *
 
 // TODO finish operation
 
-//    case MULTIPLY:
-//      return L * R;
-//    case DIVIDE:
+  // Works fine with
+  // (assert (and (< 0 z)( < 10 x) (>= y (* 2 x)) (= (* x y) z)))
+    case MULTIPLY: {
+      auto& lc = L[NODE_CONSTR_NAME];
+      auto& rc = R[NODE_CONSTR_NAME];
+
+      int min1 = lc.getMin() * rc.getMin();
+      int max1 = lc.getMax() * rc.getMax();
+      int min2 = lc.getMin() * rc.getMax();
+      int max2 = lc.getMax() * rc.getMin();
+
+      res[NODE_CONSTR_NAME] = Constraint(std::min(min1, std::min(min2, std::min(max1, max2))), std::max(min1, std::max(min2, std::max(max1, max2))));
+      return res;
+    }
+
+//     case DIVIDE:
 //      return L / R;
+
 //    case kwMOD:
 //      return L % R;
 //    case kwDIV:

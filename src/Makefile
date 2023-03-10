@@ -1,8 +1,7 @@
 TARGET = comp
-CXX = clang++
-
-CXXFLAGS = 
-
+CXX = g++
+CXXFLAGS = -std=c++17 -Wall -pedantic -Wno-long-long -O2
+FILE = ../test/simple.smt2
 
 
 
@@ -37,7 +36,5 @@ clean:
 
 
 run:
-	./comp $(file)
-	clang++ OutputFile.ll
-	./a.out
+	./comp $(FILE)
 	

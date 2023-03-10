@@ -1,5 +1,3 @@
-/* parser.c */
-
 #include "parser.h"
 #include "lexan.h"
 #include "tree.h"
@@ -19,20 +17,20 @@ LexicalSymbol Symb;
 
 void CompareError(LexSymbolType s)
 {
-  printf("Error while comparing, expected %s.\n", symbTable[s]);
-  return;
+  std::cout << "Error while comparing, expected " << symbTable[s] << ".\n";
+return;
 }
 
-void ExpansionError(char *nonterminal, LexSymbolType s)
+void ExpansionError(const char* nonterminal, LexSymbolType s)
 {
-  printf("Error while expanding nonterminal %s, unexpected token %s.\n", nonterminal, symbTable[s]);
-  return;
+  std::cout << "Error while expanding nonterminal " << nonterminal << ", unexpected token " << symbTable[s] << ".\n";
+return;
 }
 
 void SyntaxError(LexSymbolType ex, LexSymbolType cur)
 {
-  printf("Error expected token %s, current token is %s.\n", symbTable[ex], symbTable[cur]);
-  return;
+  std::cout << "Error expected token " << symbTable[ex] << ", current token is " << symbTable[cur] << ".\n";
+return;
 }
 
 void Compare(LexSymbolType s)
@@ -315,7 +313,6 @@ Node *DefaultDeclaration() {
         break;
 
       default:
-        auto asd = 5;
         break;
     }
   }
@@ -332,13 +329,13 @@ Node *DefaultDeclaration() {
   return tmp;
 }
 
-std::map<std::string, int> test(int idx, std::vector<VarNode *> &vars,
+std::map<std::string, int> test(size_t idx, std::vector<VarNode *> &vars,
                                 std::map<std::string, int> &curr,
                                 std::vector<Node*> &constraints)
 {
   if (idx == vars.size()) {
     bool flag = true;
-    for (int i = 0; i < constraints.size(); ++i) {
+    for (size_t i = 0; i < constraints.size(); ++i) {
       if (constraints[i]->codegen(curr) == 0) {
         flag = false;
         break;
@@ -375,7 +372,7 @@ Node *Program()
 
   std::vector<VarNode *> vars;
   std::map<std::string, VarNode *> mVars;
-  for (int i = 0; i < v.size(); ++i) {
+  for (size_t i = 0; i < v.size(); ++i) {
     if (v[i]->getType() == VarType) {
       vars.push_back((VarNode *)v[i]);
       mVars[((VarNode *)v[i])->getName()] = (VarNode *)v[i];
@@ -384,7 +381,7 @@ Node *Program()
 
   std::vector<Node*> constraints;
 
-  for (int i = 0; i < v.size(); ++i) {
+  for (size_t i = 0; i < v.size(); ++i) {
     if (v[i]->getType() == ParType) {
       constraints.push_back(v[i]);
     }
@@ -392,7 +389,7 @@ Node *Program()
 
   while (true) {
     bool flag = false;
-    for (int i = 0; i < constraints.size(); ++i) {
+    for (size_t i = 0; i < constraints.size(); ++i) {
       auto res = constraints[i]->getConstraints(std::vector<Node*>());
       for (auto &p : res) {
         if (p.first != NODE_CONSTR_NAME) {

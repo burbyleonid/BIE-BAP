@@ -17,10 +17,10 @@ typedef enum {
   COMMA, EQUAL, LPAR, RPAR, COLON , AMPERSAND, DOLLAR_SIGN, R_SQR_BRAK, L_SQR_BRAK, 
   kwINTEGER, kwREAL, kwCHARACTER , kwBOOLEAN, kwENUMERATOR, kwSUBRANGE, kwARRAY, kwPOINTER,
   kwFORWARD, NOT_EQUAl, kwExit,
-  kwINFO, kwDECLARE, kwASSERT, kwCHECK, kwGET
+  kwINFO, kwDECLARE, kwASSERT, kwCHECK, kwGET, kwDISTINCT
 } LexSymbolType;
 
-extern const char *symbTable[78];
+extern const char *symbTable[79];
 
 extern const LexSymbolType dataTypes[7];
 

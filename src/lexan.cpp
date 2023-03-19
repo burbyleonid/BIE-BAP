@@ -10,7 +10,7 @@
 typedef enum {LETTER, NUMBER, WHITE_SPACE, PIPE_LINE, END, NO_TYPE} InputCharType;
 
 
-const char *symbTable[78] = {
+const char *symbTable[79] = {
   "IDENT",
   "NUMB",
   "NUMBR",
@@ -87,8 +87,8 @@ const char *symbTable[78] = {
   "kwDECLARE",
   "kwASSERT",
   "kwCHECK",
-  "kwGET"
-
+  "kwGET",
+  "kwDISTINCT"
 }; //symbol names in the same order as in LexSymbolType
 
 const LexSymbolType dataTypes[7] =   { kwINTEGER, kwREAL, kwCHARACTER , kwBOOLEAN, kwENUMERATOR, kwSUBRANGE, kwPOINTER };
@@ -104,7 +104,7 @@ void readInput(void) {
     input = NUMBER;
   else if (character == EOF)
     input = END;
-  else if (character <= ' ' || character == '|')
+  else if (character <= ' ' || character == '|' || character == ';')
     input = WHITE_SPACE;
   else
     input = NO_TYPE;
@@ -159,6 +159,7 @@ const struct {const char* slovo; LexSymbolType symb;} keyWordTable[] = {
   {"enumerator", kwENUMERATOR},
   {"array", kwARRAY},
   {"pointer", kwPOINTER},
+  {"distinct", kwDISTINCT},
   {NULL, (LexSymbolType) 0} // Mark the end of the array with a NULL word and 0 symbol
 };
 
@@ -235,10 +236,10 @@ q0:
       data.type = DIVIDE;
       readInput();
       return data;
-    case ';':
-      data.type = SEMICOLON;
-      readInput();
-      return data;
+//    case ';':
+//      data.type = SEMICOLON;
+//      readInput();
+//      return data;
     case ',':
       data.type = COMMA;
       readInput();

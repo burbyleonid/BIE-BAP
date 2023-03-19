@@ -261,3 +261,44 @@ Parantesis::Parantesis(Node * e){
 int Parantesis::codegen(const std::map<std::string, int> &vars) {
     return expr->codegen(vars);
 }
+
+
+Node* SimplifyTree(Node *root, std::map<std::string, VarNode *> &mVars) {
+//  NoType = -1,
+//  VarType, +
+//  IntType,
+//  BinOpType, +
+//  UnOpType, +
+//  ParType, +
+
+  switch (root->getType()) {
+    case ParType: {
+      Parantesis *tmp = (Parantesis *)root;
+      return SimplifyTree(tmp->expr, mVars);
+    }
+    case VarType: {
+      VarNode *tmp = (VarNode *)root;
+      auto name = tmp->name;
+// TODO: add virtual destructor for all Node Types
+//      delete tmp;
+      return mVars[name];
+    }
+    case BinOpType: {
+      BinOp *tmp = (BinOp *)root;
+      tmp->left = SimplifyTree(tmp->left, mVars);
+      tmp->right = SimplifyTree(tmp->right, mVars);
+      return tmp;
+    }
+    case UnOpType: {
+      UnOp *tmp = (UnOp *)root;
+      tmp->operand = SimplifyTree(tmp->operand, mVars);
+      return tmp;
+    }
+    case IntType: {
+      return root;
+    }
+
+    default:
+      return root;
+  }
+}

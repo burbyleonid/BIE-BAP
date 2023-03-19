@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <iostream>
 #include <string.h>
+#include <set>
 
 
 Node *Expression(void);
@@ -39,18 +40,6 @@ void Compare(LexSymbolType s)
     Symb = readLexem();
   else
     CompareError(s);
-}
-
-int Srovnani_NUMB()
-{
-  if (Symb.type == NUMB)
-  {
-    int shod = Symb.number;
-    Symb = readLexem();
-    return shod;
-  }
-  else
-    CompareError(NUMB);
 }
 
 int initParser(char *fileName)
@@ -117,6 +106,7 @@ Node *ExpressionTMP(int priority, bool unaryFlag, bool constFlag)
 
       break;
     }
+    case MULTIPLY:
     case PLUS:
     case MINUS:
     {
@@ -144,7 +134,6 @@ Node *ExpressionTMP(int priority, bool unaryFlag, bool constFlag)
 
       break;
     }
-    case MULTIPLY:
     case DIVIDE:
     case kwMOD:
     case kwDIV:
@@ -223,12 +212,43 @@ Node *AssertDeclaration() {
     return nullptr;
   }
   Symb = readLexem();
+  if (Symb.type != LPAR) {
+    SyntaxError(LPAR, Symb.type);
+    return nullptr;
+  }
+  Symb = readLexem();
 
-  return ExpressionTMP(0);
+  Node *res = nullptr;
+  if (Symb.type == kwDISTINCT) {
+    Symb = readLexem();
+    if (Symb.type != IDENT) {
+        SyntaxError(IDENT, Symb.type);
+        return nullptr;
+    }
+    std::string x = Symb.ident;
+    Symb = readLexem();
+    if (Symb.type != IDENT) {
+        SyntaxError(IDENT, Symb.type);
+        return nullptr;
+    }
+    res = new DistinctNode(x, Symb.ident);
+
+    Symb = readLexem();
+  } else {
+    res = new Parantesis(ExpressionTMP(0));
+  }
+
+  if (Symb.type != RPAR) {
+    SyntaxError(RPAR, Symb.type);
+    return nullptr;
+  }
+  Symb = readLexem();
+
+  return res;
 }
 
 Node *DeclareDeclaration() {
-  std::cout << "DeclareDeclaration start" << std::endl;
+//  std::cout << "DeclareDeclaration start" << std::endl;
   if (Symb.type != kwDECLARE) {
     SyntaxError(kwDECLARE, Symb.type);
     return nullptr;
@@ -241,7 +261,7 @@ Node *DeclareDeclaration() {
   Symb = readLexem();
   if (Symb.type != IDENT || strcmp(Symb.ident, "fun") != 0) {
     SyntaxError(IDENT, Symb.type);
-    std::cout << Symb.ident << " != fun" << std::endl;
+//    std::cout << Symb.ident << " != fun" << std::endl;
     return nullptr;
   }
 
@@ -253,7 +273,7 @@ Node *DeclareDeclaration() {
   std::string ident(Symb.ident);
   VarNode *var = new VarNode(ident);
 
-  std::cout << Symb.ident << std::endl;
+//  std::cout << Symb.ident << std::endl;
 
 
   Symb = readLexem();
@@ -270,23 +290,23 @@ Node *DeclareDeclaration() {
   Symb = readLexem();
   if (Symb.type != IDENT || strcmp(Symb.ident, "Int") != 0) {
     SyntaxError(IDENT, Symb.type);
-    std::cout << Symb.ident << " != Int" << std::endl;
+//    std::cout << Symb.ident << " != Int" << std::endl;
     return nullptr;
   }
 
   Symb = readLexem();
-  std::cout << "DeclareDeclaration end" << std::endl;
+//  std::cout << "DeclareDeclaration end" << std::endl;
 
   return var;
 }
 
 Node *SetDeclaration() {
-  std::cout << "SetDeclaration start" << std::endl;
+//  std::cout << "SetDeclaration start" << std::endl;
   while (Symb.type != RPAR){
-    std::cout << symbTable[Symb.type] << std::endl;
+//    std::cout << symbTable[Symb.type] << std::endl;
     Symb = readLexem();
   }
-  std::cout << "SetDeclaration end" << std::endl;
+//  std::cout << "SetDeclaration end" << std::endl;
   return NULL;
 }
 
@@ -329,9 +349,13 @@ Node *DefaultDeclaration() {
   return tmp;
 }
 
+//computeConstraints()
+
+
 std::map<std::string, int> test(size_t idx, std::vector<VarNode *> &vars,
                                 std::map<std::string, int> &curr,
-                                std::vector<Node*> &constraints)
+                                std::vector<Node*> &constraints,
+                                std::map<std::string, std::set<std::string>> &distinct)
 {
   if (idx == vars.size()) {
     bool flag = true;
@@ -347,21 +371,41 @@ std::map<std::string, int> test(size_t idx, std::vector<VarNode *> &vars,
     return std::map<std::string, int>();
   }
 
+  std::set<int> forbiden;
+
+  const auto &name = vars[idx]->getName();
+  const auto iter = distinct.find(name);
+  if (iter != distinct.end()) {
+    for (const auto &s : iter->second) {
+      if (curr.find(s) != curr.end()) {
+        forbiden.insert(curr[s]);
+      }
+    }
+  }
+
   for (int i = vars[idx]->cons._segments._left; i <= vars[idx]->cons._segments._right; ++i) {
-    curr[vars[idx]->getName()] = i;
-    auto res = test(idx + 1, vars, curr, constraints);
+    if (forbiden.find(i) != forbiden.end()) {
+      continue;
+    }
+
+    curr[name] = i;
+
+    auto res = test(idx + 1, vars, curr, constraints, distinct);
     if (res.size() != 0) {
       return res;
     }
   }
 
+  curr.erase(name);
+
   return std::map<std::string, int>();
 }
 
-Node *Program()
+std::map<std::string, int> Program()
 {
   Node *tmp;
   std::vector<Node *> v;
+
   while ((tmp = DefaultDeclaration())) {
     v.push_back(tmp);
 
@@ -383,9 +427,23 @@ Node *Program()
 
   for (size_t i = 0; i < v.size(); ++i) {
     if (v[i]->getType() == ParType) {
-      constraints.push_back(v[i]);
+      constraints.push_back(SimplifyTree(v[i], mVars));
     }
   }
+
+  std::map<std::string, std::set<std::string>> distinct;
+
+  for (size_t i = 0; i < v.size(); ++i) {
+    if (v[i]->getType() == DistinctType) {
+      auto tmp = (DistinctNode*)v[i];
+      const auto &x = tmp->getNameX();
+      const auto &y = tmp->getNameY();
+
+      distinct[x].insert(y);
+      distinct[y].insert(x);
+    }
+  }
+
 
   while (true) {
     bool flag = false;
@@ -407,7 +465,7 @@ Node *Program()
   }
 
   std::map<std::string, int> cur;
-  auto res = test(0, vars, cur, constraints);
+  auto res = test(0, vars, cur, constraints, distinct);
 
   if (res.size()) {
     std::cout << "SAT:" << std::endl;
@@ -421,5 +479,5 @@ Node *Program()
 
   // auto debug = 5;
 
-  return nullptr;
+  return res;
 }

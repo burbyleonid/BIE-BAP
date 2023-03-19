@@ -6,7 +6,7 @@
 #include "lexan.h"
 
 
-#define PLUS_INF (250)
+#define PLUS_INF (100)
 #define MINUS_INF (-PLUS_INF)
 #define NODE_CONSTR_NAME ("___nodeConstr")
 
@@ -18,6 +18,7 @@ typedef enum {
   BinOpType,
   UnOpType,
   ParType,
+  DistinctType,
 } NodeType;
 
 struct Segment {
@@ -69,6 +70,7 @@ public:
 };
 
 class IntConst : public Node {
+public:
   int val;
 public:
   IntConst(int c);
@@ -78,6 +80,7 @@ public:
 };
 
 class BinOp : public Node {
+public:
   LexSymbolType  op;
   Node  *left, *right;
 public:
@@ -88,6 +91,7 @@ public:
 };
 
 class UnOp : public Node {
+public:
   LexSymbolType  op;
   Node  *operand;
 public:
@@ -109,7 +113,19 @@ public:
   std::map<std::string, Constraint> getConstraints(const std::vector<Node *> &vars) override { std::map<std::string, Constraint> c; c[name] = cons;c[NODE_CONSTR_NAME] = cons; return c;}
 };
 
+
+class DistinctNode : public Node{
+public:
+  std::string _x, _y;
+public:
+  DistinctNode(const std::string &x, const std::string &y) : _x(x), _y(y) {}
+  const std::string &getNameX() const { return _x;}
+  const std::string &getNameY() const { return _y;}
+  virtual int getType() override { return DistinctType; }
+};
+
 class Parantesis : public Node{
+public:
   Node * expr;
 public:
   Parantesis(Node * e);
@@ -117,6 +133,9 @@ public:
   virtual int getType() override { return ParType; }
   std::map<std::string, Constraint> getConstraints(const std::vector<Node *> &vars) override { return expr->getConstraints(vars);}
 };
+
+
+Node *SimplifyTree(Node*, std::map<std::string, VarNode *> &mVars);
 
 #endif
 

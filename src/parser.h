@@ -3,4 +3,4 @@
 Node *Expression(void);
 int initParser(char*);
 
-Node* Program();
+std::map<std::string, int> Program();

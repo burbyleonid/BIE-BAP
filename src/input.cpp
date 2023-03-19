@@ -42,9 +42,9 @@ int getChar() {
     int lineLength = strlen(line);
     if (extendedLine) {
       lineNumber--;
-      printf("+    %s", line);
+//      printf("+    %s", line);
     } else {
-      printf("%-4d %s", lineNumber, line);
+//      printf("%-4d %s", lineNumber, line);
     }
 
     extendedLine = line[lineLength - 1] != '\n';

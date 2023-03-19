@@ -36,5 +36,5 @@ clean:
 
 
 run:
-	./comp $(FILE)
+	./comp
 	

@@ -43,8 +43,12 @@ int main(int argc, char *argv[]) {
   }
 
 #else
-  FILE *out = fopen("/mnt/c/Users/Leonid/Desktop/thesis/code/src/results.csv", "w");
-  fprintf(out, "Test name, Execution time, Result, Values\n");
+
+// TODO download https://github.com/cvc5/cvc5/releases/latest/download/cvc5-Linux for testing original cvc5
+
+// TODO Rename to real path for output cvc file
+  FILE *out = fopen("/mnt/c/Users/Leonid/Desktop/BIE-BAP-MAIN/src/results.csv", "w");
+  fprintf(out, "Test name,Execution time,Result,Values\n");
 
 
 
@@ -52,7 +56,9 @@ int main(int argc, char *argv[]) {
     char fileName[256];
 
     // Math problems - https://clc-gitlab.cs.uiowa.edu:2443/SMT-LIB-benchmarks/QF_NIA/-/tree/master/20220315-MathProblems
-    sprintf(fileName, "/mnt/c/Users/Leonid/Desktop/thesis/code/test/20220315-MathProblems/STC_%04d.smt2", i);
+
+    // TODO Rename to real path for input STC tests
+    sprintf(fileName, "/mnt/c/Users/Leonid/Desktop/BIE-BAP-MAIN/test/STC_%04d.smt2", i);
     if(!initParser(fileName)) {
       std::cout << "Error creating the syntax analyzer." << std::endl;
       return 1;
@@ -66,12 +72,12 @@ int main(int argc, char *argv[]) {
     char testName[100];
 
     sprintf(testName, "/20220315-MathProblems/STC_%04d.smt2", i);
-    std::cout << "Test name: " << testName << ", Execution time: " << elapsed_time.count() << " seconds." << std::endl;
+    std::cout << "Test name:" << testName << ",Execution time:" << elapsed_time.count() << "seconds." << std::endl;
 
   
     fprintf(out, "%s, %lf, ", testName, elapsed_time.count());
     if (res.size()) {
-      fprintf(out, "SAT, ");
+      fprintf(out, "SAT,");
       for (const auto &v : res) {
         fprintf(out, "%s = %d ", v.first.data(), v.second);
                std::cout << v.first << " = " << v.second << std::endl;

@@ -1,16 +1,19 @@
 #!/bin/bash
 
+# Download from https://github.com/cvc5/cvc5/releases/latest/download/cvc5-Linux
+
 # Define variables for the input directory and timeout value
-INPUT_DIR="../test/20220315-MathProblems/"
+INPUT_DIR="../test"
 TIMEOUT=60
 
 # Write the CSV header to the output file
-echo "Test name,Execution time,Result,Values" > results_origianl_cvc5.csv
+echo "Test name,Execution time,Result,Values" > results_original_cvc5.csv
 
 # Loop over the test files and run each one
 for i in {1..1000}; do
     # Define the input file path
     INPUT_FILE="$INPUT_DIR/STC_$(printf "%04d" $i).smt2"
+    echo "Executing $INPUT_FILE"
 
     # Run the test command and measure the execution time
     start=$(date +%s.%N)

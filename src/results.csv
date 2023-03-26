@@ -1,4 +1,4 @@
-Test name, Execution time, Result, Values
+Test name,Execution time,Result,Values
 /20220315-MathProblems/STC_0001.smt2, 0.003764, SAT, x = -100 y = 1 z = 100 
 /20220315-MathProblems/STC_0002.smt2, 0.323468, SAT, x = -47 y = -24 z = 49 
 /20220315-MathProblems/STC_0003.smt2, 0.573846, SAT, x = -5 y = 4 z = 4 
@@ -998,4 +998,4 @@ Test name, Execution time, Result, Values
 /20220315-MathProblems/STC_0997.smt2, 0.556982, SAT, x = -3 y = 8 z = 8 
 /20220315-MathProblems/STC_0998.smt2, 0.533815, SAT, x = -9 y = -1 z = 12 
 /20220315-MathProblems/STC_0999.smt2, 0.530791, SAT, x = -9 y = 0 z = 12 
-/20220315-MathProblems/STC_1000.smt2, 0.004093, SAT, x = -100 y = 10 z = 100 
+/20220315-MathProblems/STC_1000.smt2, 0.004093, SAT, x = -100 y = 10 z = 100

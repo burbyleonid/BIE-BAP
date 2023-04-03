@@ -1,0 +1,1001 @@
+Test name, Execution time, Result, Values
+/20220315-MathProblems/STC_0001.smt2, 0.030689, SAT, x = -300 y = 1 z = 300 
+/20220315-MathProblems/STC_0002.smt2, 7.177578, SAT, x = -161 y = -54 z = 163 
+/20220315-MathProblems/STC_0003.smt2, 15.041955, SAT, x = -5 y = 4 z = 4 
+/20220315-MathProblems/STC_0004.smt2, 31.527554, Not SAT
+/20220315-MathProblems/STC_0005.smt2, 31.542761, Not SAT
+/20220315-MathProblems/STC_0006.smt2, 3.409895, SAT, x = -235 y = -55 z = 236 
+/20220315-MathProblems/STC_0007.smt2, 6.970236, SAT, x = -169 y = 44 z = 168 
+/20220315-MathProblems/STC_0008.smt2, 0.026012, SAT, x = -300 y = 2 z = 300 
+/20220315-MathProblems/STC_0009.smt2, 4.568653, SAT, x = -216 y = -52 z = 217 
+/20220315-MathProblems/STC_0010.smt2, 6.655646, SAT, x = -171 y = 130 z = 141 
+/20220315-MathProblems/STC_0011.smt2, 4.457276, SAT, x = -212 y = -197 z = 258 
+/20220315-MathProblems/STC_0012.smt2, 14.928123, SAT, x = -11 y = 7 z = 10 
+/20220315-MathProblems/STC_0013.smt2, 32.378540, Not SAT
+/20220315-MathProblems/STC_0014.smt2, 31.821970, Not SAT
+/20220315-MathProblems/STC_0015.smt2, 12.658085, SAT, x = -46 y = 23 z = 44 
+/20220315-MathProblems/STC_0016.smt2, 10.206278, SAT, x = -94 y = -48 z = 98 
+/20220315-MathProblems/STC_0017.smt2, 9.519306, SAT, x = -111 y = -103 z = 135 
+/20220315-MathProblems/STC_0018.smt2, 4.106397, SAT, x = -218 y = 75 z = 215 
+/20220315-MathProblems/STC_0019.smt2, 10.315850, SAT, x = -95 y = 47 z = 91 
+/20220315-MathProblems/STC_0020.smt2, 1.283024, SAT, x = -275 y = 159 z = 256 
+/20220315-MathProblems/STC_0021.smt2, 9.928869, SAT, x = -101 y = 49 z = 97 
+/20220315-MathProblems/STC_0022.smt2, 33.033018, Not SAT
+/20220315-MathProblems/STC_0023.smt2, 37.391311, Not SAT
+/20220315-MathProblems/STC_0024.smt2, 15.866960, SAT, x = -10 y = 8 z = 8 
+/20220315-MathProblems/STC_0025.smt2, 15.670420, SAT, x = -1 y = -1 z = 3 
+/20220315-MathProblems/STC_0026.smt2, 15.350763, SAT, x = -1 y = 0 z = 3 
+/20220315-MathProblems/STC_0027.smt2, 0.029708, SAT, x = -300 y = 3 z = 300 
+/20220315-MathProblems/STC_0028.smt2, 12.615119, SAT, x = -59 y = 31 z = 56 
+/20220315-MathProblems/STC_0029.smt2, 3.961612, SAT, x = -233 y = -69 z = 235 
+/20220315-MathProblems/STC_0030.smt2, 33.618156, Not SAT
+/20220315-MathProblems/STC_0031.smt2, 31.182118, Not SAT
+/20220315-MathProblems/STC_0032.smt2, 30.767315, Not SAT
+/20220315-MathProblems/STC_0033.smt2, 31.129531, Not SAT
+/20220315-MathProblems/STC_0034.smt2, 9.709071, SAT, x = -121 y = -112 z = 147 
+/20220315-MathProblems/STC_0035.smt2, 15.720302, SAT, x = -13 y = -8 z = 14 
+/20220315-MathProblems/STC_0036.smt2, 1.752394, SAT, x = -269 y = -87 z = 272 
+/20220315-MathProblems/STC_0037.smt2, 13.719641, SAT, x = -56 y = 37 z = 50 
+/20220315-MathProblems/STC_0038.smt2, 14.641964, SAT, x = -27 y = 16 z = 25 
+/20220315-MathProblems/STC_0039.smt2, 29.997146, Not SAT
+/20220315-MathProblems/STC_0040.smt2, 29.944011, Not SAT
+/20220315-MathProblems/STC_0041.smt2, 30.080291, Not SAT
+/20220315-MathProblems/STC_0042.smt2, 29.950868, Not SAT
+/20220315-MathProblems/STC_0043.smt2, 12.352414, SAT, x = -52 y = 20 z = 51 
+/20220315-MathProblems/STC_0044.smt2, 15.088665, SAT, x = -7 y = -5 z = 8 
+/20220315-MathProblems/STC_0045.smt2, 14.833288, SAT, x = -3 y = 2 z = 4 
+/20220315-MathProblems/STC_0046.smt2, 13.541286, SAT, x = -29 y = 19 z = 26 
+/20220315-MathProblems/STC_0047.smt2, 7.911321, SAT, x = -141 y = 49 z = 139 
+/20220315-MathProblems/STC_0048.smt2, 9.122922, SAT, x = -116 y = -86 z = 130 
+/20220315-MathProblems/STC_0049.smt2, 29.841971, Not SAT
+/20220315-MathProblems/STC_0050.smt2, 31.398609, Not SAT
+/20220315-MathProblems/STC_0051.smt2, 31.993090, Not SAT
+/20220315-MathProblems/STC_0052.smt2, 30.925174, Not SAT
+/20220315-MathProblems/STC_0053.smt2, 3.008154, SAT, x = -240 y = 80 z = 237 
+/20220315-MathProblems/STC_0054.smt2, 7.975833, SAT, x = -141 y = -72 z = 147 
+/20220315-MathProblems/STC_0055.smt2, 2.548297, SAT, x = -249 y = 82 z = 246 
+/20220315-MathProblems/STC_0056.smt2, 4.542301, SAT, x = -210 y = 64 z = 208 
+/20220315-MathProblems/STC_0057.smt2, 5.692528, SAT, x = -185 y = -95 z = 193 
+/20220315-MathProblems/STC_0058.smt2, 29.981769, Not SAT
+/20220315-MathProblems/STC_0059.smt2, 35.442646, Not SAT
+/20220315-MathProblems/STC_0060.smt2, 15.382393, SAT, x = -4 y = -1 z = 5 
+/20220315-MathProblems/STC_0061.smt2, 16.990774, SAT, x = -4 y = 0 z = 5 
+/20220315-MathProblems/STC_0062.smt2, 15.414342, SAT, x = -43 y = 22 z = 41 
+/20220315-MathProblems/STC_0063.smt2, 9.011865, SAT, x = -161 y = 102 z = 146 
+/20220315-MathProblems/STC_0064.smt2, 0.033988, SAT, x = -300 y = 4 z = 300 
+/20220315-MathProblems/STC_0065.smt2, 12.491698, SAT, x = -111 y = 85 z = 91 
+/20220315-MathProblems/STC_0066.smt2, 16.310201, SAT, x = 1 y = 1 z = 4 
+/20220315-MathProblems/STC_0067.smt2, 34.450750, Not SAT
+/20220315-MathProblems/STC_0068.smt2, 34.966573, Not SAT
+/20220315-MathProblems/STC_0069.smt2, 15.715204, SAT, x = -22 y = -19 z = 26 
+/20220315-MathProblems/STC_0070.smt2, 13.222660, SAT, x = -64 y = 23 z = 63 
+/20220315-MathProblems/STC_0071.smt2, 13.671583, SAT, x = -33 y = -22 z = 36 
+/20220315-MathProblems/STC_0072.smt2, 14.725666, SAT, x = -27 y = -13 z = 28 
+/20220315-MathProblems/STC_0073.smt2, 13.455462, SAT, x = -47 y = 29 z = 43 
+/20220315-MathProblems/STC_0074.smt2, 32.015053, Not SAT
+/20220315-MathProblems/STC_0075.smt2, 31.709958, Not SAT
+/20220315-MathProblems/STC_0076.smt2, 36.131045, Not SAT
+/20220315-MathProblems/STC_0077.smt2, 34.137795, Not SAT
+/20220315-MathProblems/STC_0078.smt2, 13.208994, SAT, x = -55 y = 26 z = 53 
+/20220315-MathProblems/STC_0079.smt2, 13.373614, SAT, x = -66 y = -49 z = 74 
+/20220315-MathProblems/STC_0080.smt2, 16.346100, SAT, x = -6 y = -6 z = 8 
+/20220315-MathProblems/STC_0081.smt2, 14.988537, SAT, x = -18 y = 10 z = 17 
+/20220315-MathProblems/STC_0082.smt2, 15.516811, SAT, x = -11 y = -11 z = 14 
+/20220315-MathProblems/STC_0083.smt2, 6.284162, SAT, x = -183 y = 139 z = 151 
+/20220315-MathProblems/STC_0084.smt2, 31.295465, Not SAT
+/20220315-MathProblems/STC_0085.smt2, 32.702180, Not SAT
+/20220315-MathProblems/STC_0086.smt2, 32.529643, Not SAT
+/20220315-MathProblems/STC_0087.smt2, 33.294695, Not SAT
+/20220315-MathProblems/STC_0088.smt2, 8.799089, SAT, x = -135 y = -130 z = 167 
+/20220315-MathProblems/STC_0089.smt2, 15.392437, SAT, x = -7 y = 6 z = 6 
+/20220315-MathProblems/STC_0090.smt2, 10.687206, SAT, x = -100 y = 31 z = 99 
+/20220315-MathProblems/STC_0091.smt2, 16.927407, SAT, x = -5 y = 0 z = 6 
+/20220315-MathProblems/STC_0092.smt2, 4.310507, SAT, x = -218 y = -101 z = 225 
+/20220315-MathProblems/STC_0093.smt2, 2.807167, SAT, x = -248 y = -98 z = 253 
+/20220315-MathProblems/STC_0094.smt2, 31.897822, Not SAT
+/20220315-MathProblems/STC_0095.smt2, 33.282795, Not SAT
+/20220315-MathProblems/STC_0096.smt2, 14.188320, SAT, x = -22 y = 14 z = 20 
+/20220315-MathProblems/STC_0097.smt2, 0.317293, SAT, x = -295 y = 101 z = 291 
+/20220315-MathProblems/STC_0098.smt2, 8.095721, SAT, x = -141 y = 39 z = 140 
+/20220315-MathProblems/STC_0099.smt2, 3.253599, SAT, x = -237 y = 152 z = 214 
+/20220315-MathProblems/STC_0100.smt2, 6.958183, SAT, x = -161 y = -139 z = 190 
+/20220315-MathProblems/STC_0101.smt2, 10.821497, SAT, x = -83 y = 46 z = 78 
+/20220315-MathProblems/STC_0102.smt2, 3.274384, SAT, x = -239 y = 118 z = 229 
+/20220315-MathProblems/STC_0103.smt2, 32.256721, Not SAT
+/20220315-MathProblems/STC_0104.smt2, 31.272429, Not SAT
+/20220315-MathProblems/STC_0105.smt2, 15.661296, SAT, x = -7 y = -4 z = 8 
+/20220315-MathProblems/STC_0106.smt2, 14.999990, SAT, x = -19 y = -19 z = 24 
+/20220315-MathProblems/STC_0107.smt2, 13.873588, SAT, x = -48 y = -28 z = 51 
+/20220315-MathProblems/STC_0108.smt2, 33.496244, Not SAT
+/20220315-MathProblems/STC_0109.smt2, 10.992047, SAT, x = -107 y = -88 z = 124 
+/20220315-MathProblems/STC_0110.smt2, 33.096230, Not SAT
+/20220315-MathProblems/STC_0111.smt2, 33.417430, Not SAT
+/20220315-MathProblems/STC_0112.smt2, 32.725876, Not SAT
+/20220315-MathProblems/STC_0113.smt2, 31.832461, Not SAT
+/20220315-MathProblems/STC_0114.smt2, 31.524289, Not SAT
+/20220315-MathProblems/STC_0115.smt2, 15.336477, SAT, x = -12 y = 8 z = 11 
+/20220315-MathProblems/STC_0116.smt2, 15.888317, SAT, x = -2 y = -1 z = 5 
+/20220315-MathProblems/STC_0117.smt2, 16.206782, SAT, x = -2 y = 0 z = 5 
+/20220315-MathProblems/STC_0118.smt2, 2.603731, SAT, x = -251 y = 122 z = 241 
+/20220315-MathProblems/STC_0119.smt2, 16.082407, SAT, x = -14 y = -8 z = 15 
+/20220315-MathProblems/STC_0120.smt2, 11.638227, SAT, x = -92 y = 46 z = 88 
+/20220315-MathProblems/STC_0121.smt2, 32.563953, Not SAT
+/20220315-MathProblems/STC_0122.smt2, 33.605468, Not SAT
+/20220315-MathProblems/STC_0123.smt2, 14.103484, SAT, x = -37 y = -16 z = 38 
+/20220315-MathProblems/STC_0124.smt2, 16.361595, SAT, x = -1 y = 0 z = 5 
+/20220315-MathProblems/STC_0125.smt2, 0.026650, SAT, x = -300 y = 5 z = 300 
+/20220315-MathProblems/STC_0126.smt2, 15.449167, SAT, x = -12 y = -7 z = 13 
+/20220315-MathProblems/STC_0127.smt2, 9.389518, SAT, x = -118 y = -74 z = 127 
+/20220315-MathProblems/STC_0128.smt2, 6.033740, SAT, x = -188 y = -96 z = 196 
+/20220315-MathProblems/STC_0129.smt2, 15.337952, SAT, x = 1 y = 4 z = 4 
+/20220315-MathProblems/STC_0130.smt2, 33.550680, Not SAT
+/20220315-MathProblems/STC_0131.smt2, 31.966564, Not SAT
+/20220315-MathProblems/STC_0132.smt2, 15.824489, SAT, x = -1 y = 2 z = 5 
+/20220315-MathProblems/STC_0133.smt2, 11.052653, SAT, x = -91 y = -37 z = 93 
+/20220315-MathProblems/STC_0134.smt2, 9.519882, SAT, x = -117 y = -93 z = 134 
+/20220315-MathProblems/STC_0135.smt2, 14.535677, SAT, x = -28 y = -17 z = 30 
+/20220315-MathProblems/STC_0136.smt2, 4.108998, SAT, x = -222 y = -206 z = 270 
+/20220315-MathProblems/STC_0137.smt2, 15.781230, SAT, x = -30 y = -23 z = 34 
+/20220315-MathProblems/STC_0138.smt2, 11.612087, SAT, x = -86 y = -77 z = 103 
+/20220315-MathProblems/STC_0139.smt2, 31.155505, Not SAT
+/20220315-MathProblems/STC_0140.smt2, 33.219777, Not SAT
+/20220315-MathProblems/STC_0141.smt2, 9.039363, SAT, x = -139 y = 104 z = 116 
+/20220315-MathProblems/STC_0142.smt2, 16.142124, SAT, x = -7 y = -3 z = 8 
+/20220315-MathProblems/STC_0143.smt2, 31.830696, Not SAT
+/20220315-MathProblems/STC_0144.smt2, 1.808071, SAT, x = -270 y = 157 z = 251 
+/20220315-MathProblems/STC_0145.smt2, 16.132822, SAT, x = -8 y = -7 z = 10 
+/20220315-MathProblems/STC_0146.smt2, 8.161288, SAT, x = -149 y = 108 z = 127 
+/20220315-MathProblems/STC_0147.smt2, 13.136089, SAT, x = -56 y = -50 z = 67 
+/20220315-MathProblems/STC_0148.smt2, 32.095696, Not SAT
+/20220315-MathProblems/STC_0149.smt2, 30.780672, Not SAT
+/20220315-MathProblems/STC_0150.smt2, 31.031889, Not SAT
+/20220315-MathProblems/STC_0151.smt2, 9.358677, SAT, x = -121 y = 80 z = 108 
+/20220315-MathProblems/STC_0152.smt2, 5.934255, SAT, x = -190 y = 94 z = 182 
+/20220315-MathProblems/STC_0153.smt2, 4.935592, SAT, x = -213 y = -65 z = 215 
+/20220315-MathProblems/STC_0154.smt2, 8.592010, SAT, x = -141 y = 70 z = 135 
+/20220315-MathProblems/STC_0155.smt2, 9.225853, SAT, x = -125 y = 36 z = 124 
+/20220315-MathProblems/STC_0156.smt2, 33.314711, Not SAT
+/20220315-MathProblems/STC_0157.smt2, 33.946743, Not SAT
+/20220315-MathProblems/STC_0158.smt2, 31.640810, Not SAT
+/20220315-MathProblems/STC_0159.smt2, 3.215504, SAT, x = -238 y = -121 z = 248 
+/20220315-MathProblems/STC_0160.smt2, 9.913250, SAT, x = -112 y = 42 z = 110 
+/20220315-MathProblems/STC_0161.smt2, 3.810725, SAT, x = -232 y = -119 z = 242 
+/20220315-MathProblems/STC_0162.smt2, 7.388638, SAT, x = -174 y = -129 z = 195 
+/20220315-MathProblems/STC_0163.smt2, 12.035754, SAT, x = -76 y = -68 z = 91 
+/20220315-MathProblems/STC_0164.smt2, 12.461925, SAT, x = -66 y = -59 z = 79 
+/20220315-MathProblems/STC_0165.smt2, 31.368227, Not SAT
+/20220315-MathProblems/STC_0166.smt2, 34.522233, Not SAT
+/20220315-MathProblems/STC_0167.smt2, 32.065018, Not SAT
+/20220315-MathProblems/STC_0168.smt2, 2.261863, SAT, x = -259 y = 116 z = 251 
+/20220315-MathProblems/STC_0169.smt2, 15.037057, SAT, x = -7 y = 0 z = 8 
+/20220315-MathProblems/STC_0170.smt2, 2.243091, SAT, x = -257 y = 179 z = 224 
+/20220315-MathProblems/STC_0171.smt2, 11.021389, SAT, x = -87 y = 67 z = 71 
+/20220315-MathProblems/STC_0172.smt2, 33.697800, Not SAT
+/20220315-MathProblems/STC_0173.smt2, 32.405536, Not SAT
+/20220315-MathProblems/STC_0174.smt2, 7.558985, SAT, x = -152 y = -71 z = 157 
+/20220315-MathProblems/STC_0175.smt2, 31.168696, Not SAT
+/20220315-MathProblems/STC_0176.smt2, 31.689566, Not SAT
+/20220315-MathProblems/STC_0177.smt2, 15.183533, SAT, x = -7 y = 2 z = 8 
+/20220315-MathProblems/STC_0178.smt2, 14.735241, SAT, x = -13 y = -10 z = 15 
+/20220315-MathProblems/STC_0179.smt2, 15.971081, SAT, x = -4 y = 3 z = 6 
+/20220315-MathProblems/STC_0180.smt2, 35.740928, Not SAT
+/20220315-MathProblems/STC_0181.smt2, 9.431306, SAT, x = -120 y = -83 z = 132 
+/20220315-MathProblems/STC_0182.smt2, 11.197615, SAT, x = -90 y = -29 z = 91 
+/20220315-MathProblems/STC_0183.smt2, 0.250166, SAT, x = -296 y = 64 z = 295 
+/20220315-MathProblems/STC_0184.smt2, 32.542906, Not SAT
+/20220315-MathProblems/STC_0185.smt2, 54.340966, Not SAT
+/20220315-MathProblems/STC_0186.smt2, 21.207176, SAT, x = -4 y = 5 z = 5 
+/20220315-MathProblems/STC_0187.smt2, 18.292653, SAT, x = -58 y = 27 z = 56 
+/20220315-MathProblems/STC_0188.smt2, 13.593957, SAT, x = -74 y = -55 z = 83 
+/20220315-MathProblems/STC_0189.smt2, 12.376792, SAT, x = -121 y = 85 z = 105 
+/20220315-MathProblems/STC_0190.smt2, 3.021925, SAT, x = -247 y = -104 z = 253 
+/20220315-MathProblems/STC_0191.smt2, 12.031184, SAT, x = -80 y = 63 z = 64 
+/20220315-MathProblems/STC_0192.smt2, 14.745237, SAT, x = -20 y = 16 z = 16 
+/20220315-MathProblems/STC_0193.smt2, 34.483377, Not SAT
+/20220315-MathProblems/STC_0194.smt2, 31.024705, Not SAT
+/20220315-MathProblems/STC_0195.smt2, 31.292299, Not SAT
+/20220315-MathProblems/STC_0196.smt2, 13.709262, SAT, x = -34 y = -15 z = 35 
+/20220315-MathProblems/STC_0197.smt2, 0.816273, SAT, x = -285 y = -153 z = 299 
+/20220315-MathProblems/STC_0198.smt2, 5.406987, SAT, x = -195 y = 148 z = 161 
+/20220315-MathProblems/STC_0199.smt2, 6.286246, SAT, x = -178 y = 130 z = 151 
+/20220315-MathProblems/STC_0200.smt2, 9.573018, SAT, x = -114 y = 73 z = 103 
+/20220315-MathProblems/STC_0201.smt2, 6.339228, SAT, x = -182 y = 73 z = 178 
+/20220315-MathProblems/STC_0202.smt2, 30.886834, Not SAT
+/20220315-MathProblems/STC_0203.smt2, 31.117085, Not SAT
+/20220315-MathProblems/STC_0204.smt2, 15.114897, SAT, x = -13 y = -7 z = 14 
+/20220315-MathProblems/STC_0205.smt2, 14.341837, SAT, x = -19 y = -13 z = 21 
+/20220315-MathProblems/STC_0206.smt2, 13.669756, SAT, x = -33 y = 15 z = 32 
+/20220315-MathProblems/STC_0207.smt2, 13.949672, SAT, x = -29 y = 17 z = 27 
+/20220315-MathProblems/STC_0208.smt2, 7.104026, SAT, x = -161 y = 104 z = 145 
+/20220315-MathProblems/STC_0209.smt2, 8.463041, SAT, x = -135 y = -38 z = 136 
+/20220315-MathProblems/STC_0210.smt2, 15.199183, SAT, x = -5 y = -2 z = 7 
+/20220315-MathProblems/STC_0211.smt2, 31.526497, Not SAT
+/20220315-MathProblems/STC_0212.smt2, 30.890657, Not SAT
+/20220315-MathProblems/STC_0213.smt2, 30.985692, Not SAT
+/20220315-MathProblems/STC_0214.smt2, 15.473647, SAT, x = -1 y = -1 z = 6 
+/20220315-MathProblems/STC_0215.smt2, 9.209317, SAT, x = -121 y = 94 z = 98 
+/20220315-MathProblems/STC_0216.smt2, 0.027030, SAT, x = -300 y = 6 z = 300 
+/20220315-MathProblems/STC_0217.smt2, 5.359526, SAT, x = -197 y = 77 z = 193 
+/20220315-MathProblems/STC_0218.smt2, 11.586156, SAT, x = -75 y = 58 z = 61 
+/20220315-MathProblems/STC_0219.smt2, 15.208783, SAT, x = -5 y = 1 z = 7 
+/20220315-MathProblems/STC_0220.smt2, 31.085152, Not SAT
+/20220315-MathProblems/STC_0221.smt2, 33.183555, Not SAT
+/20220315-MathProblems/STC_0222.smt2, 16.391751, SAT, x = -37 y = 20 z = 35 
+/20220315-MathProblems/STC_0223.smt2, 11.854686, SAT, x = -106 y = 63 z = 98 
+/20220315-MathProblems/STC_0224.smt2, 10.937286, SAT, x = -126 y = 99 z = 101 
+/20220315-MathProblems/STC_0225.smt2, 3.574829, SAT, x = -232 y = -215 z = 282 
+/20220315-MathProblems/STC_0226.smt2, 7.002977, SAT, x = -174 y = -45 z = 175 
+/20220315-MathProblems/STC_0227.smt2, 41.755493, Not SAT
+/20220315-MathProblems/STC_0228.smt2, 37.456279, Not SAT
+/20220315-MathProblems/STC_0229.smt2, 37.815834, Not SAT
+/20220315-MathProblems/STC_0230.smt2, 38.408924, Not SAT
+/20220315-MathProblems/STC_0231.smt2, 39.226162, Not SAT
+/20220315-MathProblems/STC_0232.smt2, 2.386821, SAT, x = -262 y = 59 z = 261 
+/20220315-MathProblems/STC_0233.smt2, 16.372500, SAT, x = -31 y = -14 z = 32 
+/20220315-MathProblems/STC_0234.smt2, 10.302869, SAT, x = -143 y = 113 z = 114 
+/20220315-MathProblems/STC_0235.smt2, 6.102163, SAT, x = -205 y = 139 z = 181 
+/20220315-MathProblems/STC_0236.smt2, 38.091374, Not SAT
+/20220315-MathProblems/STC_0237.smt2, 40.614550, Not SAT
+/20220315-MathProblems/STC_0238.smt2, 34.615810, Not SAT
+/20220315-MathProblems/STC_0239.smt2, 32.430919, Not SAT
+/20220315-MathProblems/STC_0240.smt2, 13.636320, SAT, x = -28 y = -13 z = 29 
+/20220315-MathProblems/STC_0241.smt2, 15.088349, SAT, x = -10 y = 8 z = 9 
+/20220315-MathProblems/STC_0242.smt2, 8.646098, SAT, x = -127 y = -100 z = 145 
+/20220315-MathProblems/STC_0243.smt2, 15.062888, SAT, x = 0 y = 3 z = 6 
+/20220315-MathProblems/STC_0244.smt2, 2.388593, SAT, x = -253 y = 130 z = 241 
+/20220315-MathProblems/STC_0245.smt2, 15.254432, SAT, x = -5 y = 3 z = 7 
+/20220315-MathProblems/STC_0246.smt2, 13.232594, SAT, x = -38 y = -29 z = 43 
+/20220315-MathProblems/STC_0247.smt2, 30.588313, Not SAT
+/20220315-MathProblems/STC_0248.smt2, 30.463629, Not SAT
+/20220315-MathProblems/STC_0249.smt2, 15.055440, SAT, x = -1 y = 5 z = 5 
+/20220315-MathProblems/STC_0250.smt2, 3.286177, SAT, x = -235 y = -120 z = 245 
+/20220315-MathProblems/STC_0251.smt2, 10.745955, SAT, x = -90 y = 54 z = 83 
+/20220315-MathProblems/STC_0252.smt2, 6.564551, SAT, x = -172 y = -77 z = 177 
+/20220315-MathProblems/STC_0253.smt2, 9.785261, SAT, x = -123 y = -104 z = 144 
+/20220315-MathProblems/STC_0254.smt2, 13.524340, SAT, x = -41 y = -17 z = 42 
+/20220315-MathProblems/STC_0255.smt2, 31.299118, Not SAT
+/20220315-MathProblems/STC_0256.smt2, 30.900704, Not SAT
+/20220315-MathProblems/STC_0257.smt2, 32.285099, Not SAT
+/20220315-MathProblems/STC_0258.smt2, 23.643689, SAT, x = 2 y = 5 z = 5 
+/20220315-MathProblems/STC_0259.smt2, 19.943676, SAT, x = -42 y = -37 z = 50 
+/20220315-MathProblems/STC_0260.smt2, 11.767743, SAT, x = -139 y = -62 z = 143 
+/20220315-MathProblems/STC_0261.smt2, 17.345985, SAT, x = -56 y = 30 z = 53 
+/20220315-MathProblems/STC_0262.smt2, 20.366008, SAT, x = -5 y = -5 z = 8 
+/20220315-MathProblems/STC_0263.smt2, 18.106806, SAT, x = -39 y = 31 z = 31 
+/20220315-MathProblems/STC_0264.smt2, 41.095920, Not SAT
+/20220315-MathProblems/STC_0265.smt2, 41.586496, Not SAT
+/20220315-MathProblems/STC_0266.smt2, 42.176727, Not SAT
+/20220315-MathProblems/STC_0267.smt2, 21.209163, SAT, x = -10 y = -4 z = 11 
+/20220315-MathProblems/STC_0268.smt2, 43.290354, Not SAT
+/20220315-MathProblems/STC_0269.smt2, 11.463080, SAT, x = -136 y = -66 z = 141 
+/20220315-MathProblems/STC_0270.smt2, 17.250841, SAT, x = -51 y = 40 z = 41 
+/20220315-MathProblems/STC_0271.smt2, 20.687980, SAT, x = -9 y = 0 z = 10 
+/20220315-MathProblems/STC_0272.smt2, 4.150474, SAT, x = -242 y = -224 z = 294 
+/20220315-MathProblems/STC_0273.smt2, 42.185471, Not SAT
+/20220315-MathProblems/STC_0274.smt2, 42.465337, Not SAT
+/20220315-MathProblems/STC_0275.smt2, 42.765058, Not SAT
+/20220315-MathProblems/STC_0276.smt2, 42.930251, Not SAT
+/20220315-MathProblems/STC_0277.smt2, 2.405178, SAT, x = -268 y = -60 z = 269 
+/20220315-MathProblems/STC_0278.smt2, 4.045126, SAT, x = -249 y = 146 z = 231 
+/20220315-MathProblems/STC_0279.smt2, 1.495023, SAT, x = -281 y = 194 z = 246 
+/20220315-MathProblems/STC_0280.smt2, 6.114414, SAT, x = -212 y = -173 z = 245 
+/20220315-MathProblems/STC_0281.smt2, 15.525558, SAT, x = -89 y = 45 z = 85 
+/20220315-MathProblems/STC_0282.smt2, 22.198567, SAT, x = -5 y = 4 z = 7 
+/20220315-MathProblems/STC_0283.smt2, 42.928811, Not SAT
+/20220315-MathProblems/STC_0284.smt2, 43.165476, Not SAT
+/20220315-MathProblems/STC_0285.smt2, 42.523574, Not SAT
+/20220315-MathProblems/STC_0286.smt2, 43.193184, Not SAT
+/20220315-MathProblems/STC_0287.smt2, 11.911673, SAT, x = -136 y = 94 z = 119 
+/20220315-MathProblems/STC_0288.smt2, 6.207522, SAT, x = -216 y = -137 z = 233 
+/20220315-MathProblems/STC_0289.smt2, 22.121899, SAT, x = -3 y = -3 z = 7 
+/20220315-MathProblems/STC_0290.smt2, 44.576868, Not SAT
+/20220315-MathProblems/STC_0291.smt2, 42.372980, Not SAT
+/20220315-MathProblems/STC_0292.smt2, 43.674496, Not SAT
+/20220315-MathProblems/STC_0293.smt2, 44.028992, Not SAT
+/20220315-MathProblems/STC_0294.smt2, 20.434797, SAT, x = -7 y = 5 z = 8 
+/20220315-MathProblems/STC_0295.smt2, 5.469803, SAT, x = -223 y = -67 z = 225 
+/20220315-MathProblems/STC_0296.smt2, 13.098973, SAT, x = -112 y = 74 z = 100 
+/20220315-MathProblems/STC_0297.smt2, 12.801515, SAT, x = -122 y = 72 z = 113 
+/20220315-MathProblems/STC_0298.smt2, 7.214579, SAT, x = -198 y = -71 z = 201 
+/20220315-MathProblems/STC_0299.smt2, 42.029497, Not SAT
+/20220315-MathProblems/STC_0300.smt2, 16.747780, SAT, x = -59 y = 34 z = 55 
+/20220315-MathProblems/STC_0301.smt2, 44.979009, Not SAT
+/20220315-MathProblems/STC_0302.smt2, 42.953725, Not SAT
+/20220315-MathProblems/STC_0303.smt2, 18.899479, SAT, x = -49 y = 32 z = 44 
+/20220315-MathProblems/STC_0304.smt2, 14.157689, SAT, x = -132 y = 95 z = 113 
+/20220315-MathProblems/STC_0305.smt2, 28.075064, SAT, x = -16 y = -8 z = 17 
+/20220315-MathProblems/STC_0306.smt2, 20.046035, SAT, x = -67 y = 42 z = 61 
+/20220315-MathProblems/STC_0307.smt2, 7.969745, SAT, x = -186 y = 123 z = 166 
+/20220315-MathProblems/STC_0308.smt2, 21.590258, SAT, x = -3 y = -2 z = 7 
+/20220315-MathProblems/STC_0309.smt2, 18.997993, SAT, x = -32 y = -26 z = 37 
+/20220315-MathProblems/STC_0310.smt2, 42.754405, Not SAT
+/20220315-MathProblems/STC_0311.smt2, 33.898121, Not SAT
+/20220315-MathProblems/STC_0312.smt2, 33.464282, Not SAT
+/20220315-MathProblems/STC_0313.smt2, 13.118678, SAT, x = -36 y = -28 z = 41 
+/20220315-MathProblems/STC_0314.smt2, 12.412603, SAT, x = -64 y = -23 z = 65 
+/20220315-MathProblems/STC_0315.smt2, 8.789849, SAT, x = -137 y = -117 z = 161 
+/20220315-MathProblems/STC_0316.smt2, 14.956390, SAT, x = -56 y = -21 z = 57 
+/20220315-MathProblems/STC_0317.smt2, 20.627903, SAT, x = -3 y = 1 z = 7 
+/20220315-MathProblems/STC_0318.smt2, 37.624141, Not SAT
+/20220315-MathProblems/STC_0319.smt2, 37.920123, Not SAT
+/20220315-MathProblems/STC_0320.smt2, 37.952291, Not SAT
+/20220315-MathProblems/STC_0321.smt2, 38.265117, Not SAT
+/20220315-MathProblems/STC_0322.smt2, 9.615789, SAT, x = -151 y = 113 z = 126 
+/20220315-MathProblems/STC_0323.smt2, 0.931292, SAT, x = -285 y = -145 z = 297 
+/20220315-MathProblems/STC_0324.smt2, 16.932266, SAT, x = -33 y = 21 z = 30 
+/20220315-MathProblems/STC_0325.smt2, 1.344083, SAT, x = -279 y = -143 z = 291 
+/20220315-MathProblems/STC_0326.smt2, 17.570453, SAT, x = -23 y = -11 z = 24 
+/20220315-MathProblems/STC_0327.smt2, 18.909251, SAT, x = -2 y = -2 z = 7 
+/20220315-MathProblems/STC_0328.smt2, 38.782697, Not SAT
+/20220315-MathProblems/STC_0329.smt2, 45.591810, Not SAT
+/20220315-MathProblems/STC_0330.smt2, 5.924204, SAT, x = -205 y = -97 z = 212 
+/20220315-MathProblems/STC_0331.smt2, 7.519380, SAT, x = -157 y = -42 z = 158 
+/20220315-MathProblems/STC_0332.smt2, 8.379988, SAT, x = -153 y = 92 z = 141 
+/20220315-MathProblems/STC_0333.smt2, 13.392956, SAT, x = -74 y = 45 z = 68 
+/20220315-MathProblems/STC_0334.smt2, 16.754800, SAT, x = -2 y = -1 z = 7 
+/20220315-MathProblems/STC_0335.smt2, 4.205455, SAT, x = -218 y = -90 z = 223 
+/20220315-MathProblems/STC_0336.smt2, 6.905177, SAT, x = -179 y = 112 z = 163 
+/20220315-MathProblems/STC_0337.smt2, 34.109708, Not SAT
+/20220315-MathProblems/STC_0338.smt2, 35.759479, Not SAT
+/20220315-MathProblems/STC_0339.smt2, 4.640883, SAT, x = -220 y = 170 z = 179 
+/20220315-MathProblems/STC_0340.smt2, 15.753006, SAT, x = -1 y = 5 z = 6 
+/20220315-MathProblems/STC_0341.smt2, 13.086544, SAT, x = -58 y = -35 z = 62 
+/20220315-MathProblems/STC_0342.smt2, 9.247949, SAT, x = -130 y = 37 z = 129 
+/20220315-MathProblems/STC_0343.smt2, 0.027817, SAT, x = -300 y = 7 z = 300 
+/20220315-MathProblems/STC_0344.smt2, 10.456515, SAT, x = -104 y = 40 z = 102 
+/20220315-MathProblems/STC_0345.smt2, 20.130961, SAT, x = 1 y = 1 z = 7 
+/20220315-MathProblems/STC_0346.smt2, 33.598455, Not SAT
+/20220315-MathProblems/STC_0347.smt2, 32.603757, Not SAT
+/20220315-MathProblems/STC_0348.smt2, 32.433869, Not SAT
+/20220315-MathProblems/STC_0349.smt2, 5.351466, SAT, x = -205 y = 63 z = 203 
+/20220315-MathProblems/STC_0350.smt2, 0.605352, SAT, x = -289 y = 63 z = 288 
+/20220315-MathProblems/STC_0351.smt2, 8.898188, SAT, x = -137 y = 78 z = 128 
+/20220315-MathProblems/STC_0352.smt2, 15.872155, SAT, x = -14 y = -10 z = 16 
+/20220315-MathProblems/STC_0353.smt2, 31.658370, Not SAT
+/20220315-MathProblems/STC_0354.smt2, 16.387188, SAT, x = -11 y = -8 z = 13 
+/20220315-MathProblems/STC_0355.smt2, 32.041981, Not SAT
+/20220315-MathProblems/STC_0356.smt2, 35.676484, Not SAT
+/20220315-MathProblems/STC_0357.smt2, 32.440094, Not SAT
+/20220315-MathProblems/STC_0358.smt2, 4.365021, SAT, x = -223 y = 53 z = 222 
+/20220315-MathProblems/STC_0359.smt2, 16.149332, SAT, x = -7 y = -3 z = 9 
+/20220315-MathProblems/STC_0360.smt2, 12.344920, SAT, x = -62 y = -33 z = 65 
+/20220315-MathProblems/STC_0361.smt2, 5.372154, SAT, x = -207 y = 157 z = 171 
+/20220315-MathProblems/STC_0362.smt2, 16.023722, SAT, x = -2 y = 3 z = 7 
+/20220315-MathProblems/STC_0363.smt2, 15.845505, SAT, x = -8 y = -5 z = 10 
+/20220315-MathProblems/STC_0364.smt2, 31.644047, Not SAT
+/20220315-MathProblems/STC_0365.smt2, 31.889204, Not SAT
+/20220315-MathProblems/STC_0366.smt2, 32.535192, Not SAT
+/20220315-MathProblems/STC_0367.smt2, 33.026159, Not SAT
+/20220315-MathProblems/STC_0368.smt2, 13.171984, SAT, x = -58 y = 38 z = 52 
+/20220315-MathProblems/STC_0369.smt2, 2.278166, SAT, x = -261 y = -119 z = 269 
+/20220315-MathProblems/STC_0370.smt2, 10.356287, SAT, x = -111 y = -92 z = 129 
+/20220315-MathProblems/STC_0371.smt2, 15.925824, SAT, x = 1 y = 3 z = 7 
+/20220315-MathProblems/STC_0372.smt2, 13.327186, SAT, x = -47 y = 19 z = 46 
+/20220315-MathProblems/STC_0373.smt2, 31.592130, Not SAT
+/20220315-MathProblems/STC_0374.smt2, 32.183734, Not SAT
+/20220315-MathProblems/STC_0375.smt2, 14.311740, SAT, x = -25 y = 20 z = 20 
+/20220315-MathProblems/STC_0376.smt2, 0.961274, SAT, x = -282 y = 98 z = 278 
+/20220315-MathProblems/STC_0377.smt2, 14.421153, SAT, x = -24 y = -15 z = 26 
+/20220315-MathProblems/STC_0378.smt2, 2.243024, SAT, x = -259 y = -74 z = 261 
+/20220315-MathProblems/STC_0379.smt2, 10.898114, SAT, x = -96 y = -44 z = 99 
+/20220315-MathProblems/STC_0380.smt2, 16.152090, SAT, x = -3 y = 4 z = 7 
+/20220315-MathProblems/STC_0381.smt2, 12.762187, SAT, x = -59 y = 22 z = 58 
+/20220315-MathProblems/STC_0382.smt2, 31.945102, Not SAT
+/20220315-MathProblems/STC_0383.smt2, 32.110489, Not SAT
+/20220315-MathProblems/STC_0384.smt2, 3.567173, SAT, x = -232 y = -172 z = 260 
+/20220315-MathProblems/STC_0385.smt2, 12.718381, SAT, x = -63 y = -40 z = 68 
+/20220315-MathProblems/STC_0386.smt2, 8.773023, SAT, x = -135 y = -48 z = 137 
+/20220315-MathProblems/STC_0387.smt2, 0.794185, SAT, x = -285 y = 133 z = 275 
+/20220315-MathProblems/STC_0388.smt2, 16.231842, SAT, x = -6 y = -5 z = 9 
+/20220315-MathProblems/STC_0389.smt2, 12.556080, SAT, x = -71 y = 31 z = 69 
+/20220315-MathProblems/STC_0390.smt2, 31.999542, Not SAT
+/20220315-MathProblems/STC_0391.smt2, 31.740422, Not SAT
+/20220315-MathProblems/STC_0392.smt2, 32.859162, Not SAT
+/20220315-MathProblems/STC_0393.smt2, 11.933699, SAT, x = -103 y = 68 z = 92 
+/20220315-MathProblems/STC_0394.smt2, 16.614445, SAT, x = -7 y = 2 z = 9 
+/20220315-MathProblems/STC_0395.smt2, 15.876494, SAT, x = -19 y = -17 z = 23 
+/20220315-MathProblems/STC_0396.smt2, 6.142614, SAT, x = -193 y = 108 z = 181 
+/20220315-MathProblems/STC_0397.smt2, 14.077340, SAT, x = -46 y = -35 z = 52 
+/20220315-MathProblems/STC_0398.smt2, 8.311788, SAT, x = -144 y = 67 z = 139 
+/20220315-MathProblems/STC_0399.smt2, 15.404378, SAT, x = -2 y = 4 z = 7 
+/20220315-MathProblems/STC_0400.smt2, 32.580426, Not SAT
+/20220315-MathProblems/STC_0401.smt2, 33.694254, Not SAT
+/20220315-MathProblems/STC_0402.smt2, 32.118520, Not SAT
+/20220315-MathProblems/STC_0403.smt2, 7.583613, SAT, x = -156 y = -85 z = 164 
+/20220315-MathProblems/STC_0404.smt2, 15.537557, SAT, x = -4 y = 5 z = 7 
+/20220315-MathProblems/STC_0405.smt2, 6.104095, SAT, x = -180 y = -46 z = 181 
+/20220315-MathProblems/STC_0406.smt2, 1.685384, SAT, x = -269 y = 154 z = 251 
+/20220315-MathProblems/STC_0407.smt2, 9.743871, SAT, x = -125 y = 87 z = 109 
+/20220315-MathProblems/STC_0408.smt2, 16.236060, SAT, x = 1 y = 4 z = 7 
+/20220315-MathProblems/STC_0409.smt2, 31.597327, Not SAT
+/20220315-MathProblems/STC_0410.smt2, 31.001784, Not SAT
+/20220315-MathProblems/STC_0411.smt2, 13.961341, SAT, x = -46 y = 35 z = 38 
+/20220315-MathProblems/STC_0412.smt2, 3.028481, SAT, x = -243 y = 164 z = 215 
+/20220315-MathProblems/STC_0413.smt2, 1.773569, SAT, x = -268 y = -147 z = 282 
+/20220315-MathProblems/STC_0414.smt2, 0.422130, SAT, x = -293 y = 80 z = 291 
+/20220315-MathProblems/STC_0415.smt2, 15.290784, SAT, x = -14 y = -6 z = 15 
+/20220315-MathProblems/STC_0416.smt2, 32.031477, Not SAT
+/20220315-MathProblems/STC_0417.smt2, 31.197813, Not SAT
+/20220315-MathProblems/STC_0418.smt2, 31.590587, Not SAT
+/20220315-MathProblems/STC_0419.smt2, 31.947803, Not SAT
+/20220315-MathProblems/STC_0420.smt2, 32.519158, Not SAT
+/20220315-MathProblems/STC_0421.smt2, 5.242573, SAT, x = -196 y = 92 z = 189 
+/20220315-MathProblems/STC_0422.smt2, 15.266302, SAT, x = -13 y = -5 z = 14 
+/20220315-MathProblems/STC_0423.smt2, 7.677014, SAT, x = -153 y = -110 z = 170 
+/20220315-MathProblems/STC_0424.smt2, 13.327707, SAT, x = -51 y = -29 z = 54 
+/20220315-MathProblems/STC_0425.smt2, 14.106948, SAT, x = -32 y = -14 z = 33 
+/20220315-MathProblems/STC_0426.smt2, 11.024362, SAT, x = -95 y = -38 z = 97 
+/20220315-MathProblems/STC_0427.smt2, 32.783710, Not SAT
+/20220315-MathProblems/STC_0428.smt2, 31.564086, Not SAT
+/20220315-MathProblems/STC_0429.smt2, 31.945482, Not SAT
+/20220315-MathProblems/STC_0430.smt2, 13.919051, SAT, x = -31 y = 18 z = 29 
+/20220315-MathProblems/STC_0431.smt2, 15.367226, SAT, x = -1 y = 6 z = 6 
+/20220315-MathProblems/STC_0432.smt2, 0.981874, SAT, x = -282 y = -144 z = 294 
+/20220315-MathProblems/STC_0433.smt2, 2.806085, SAT, x = -247 y = 193 z = 199 
+/20220315-MathProblems/STC_0434.smt2, 7.915500, SAT, x = -144 y = -77 z = 151 
+/20220315-MathProblems/STC_0435.smt2, 31.648367, Not SAT
+/20220315-MathProblems/STC_0436.smt2, 33.176925, Not SAT
+/20220315-MathProblems/STC_0437.smt2, 32.058542, Not SAT
+/20220315-MathProblems/STC_0438.smt2, 9.106138, SAT, x = -130 y = -37 z = 131 
+/20220315-MathProblems/STC_0439.smt2, 31.463459, Not SAT
+/20220315-MathProblems/STC_0440.smt2, 4.313071, SAT, x = -220 y = 124 z = 206 
+/20220315-MathProblems/STC_0441.smt2, 4.178021, SAT, x = -223 y = -170 z = 252 
+/20220315-MathProblems/STC_0442.smt2, 3.362001, SAT, x = -234 y = 93 z = 229 
+/20220315-MathProblems/STC_0443.smt2, 11.270846, SAT, x = -77 y = -26 z = 78 
+/20220315-MathProblems/STC_0444.smt2, 31.592735, Not SAT
+/20220315-MathProblems/STC_0445.smt2, 31.995425, Not SAT
+/20220315-MathProblems/STC_0446.smt2, 32.501433, Not SAT
+/20220315-MathProblems/STC_0447.smt2, 15.710332, SAT, x = -4 y = -1 z = 8 
+/20220315-MathProblems/STC_0448.smt2, 4.833559, SAT, x = -208 y = 131 z = 189 
+/20220315-MathProblems/STC_0449.smt2, 13.912737, SAT, x = -43 y = -41 z = 53 
+/20220315-MathProblems/STC_0450.smt2, 6.047013, SAT, x = -189 y = -145 z = 214 
+/20220315-MathProblems/STC_0451.smt2, 14.065017, SAT, x = -20 y = -13 z = 22 
+/20220315-MathProblems/STC_0452.smt2, 32.119540, Not SAT
+/20220315-MathProblems/STC_0453.smt2, 15.224370, SAT, x = -14 y = 10 z = 13 
+/20220315-MathProblems/STC_0454.smt2, 31.448820, Not SAT
+/20220315-MathProblems/STC_0455.smt2, 31.586857, Not SAT
+/20220315-MathProblems/STC_0456.smt2, 11.745988, SAT, x = -76 y = 50 z = 68 
+/20220315-MathProblems/STC_0457.smt2, 12.185588, SAT, x = -70 y = -31 z = 72 
+/20220315-MathProblems/STC_0458.smt2, 14.411389, SAT, x = -27 y = -19 z = 30 
+/20220315-MathProblems/STC_0459.smt2, 1.671178, SAT, x = -270 y = 187 z = 236 
+/20220315-MathProblems/STC_0460.smt2, 9.529333, SAT, x = -119 y = -100 z = 139 
+/20220315-MathProblems/STC_0461.smt2, 4.867707, SAT, x = -204 y = -50 z = 205 
+/20220315-MathProblems/STC_0462.smt2, 31.804348, Not SAT
+/20220315-MathProblems/STC_0463.smt2, 32.313703, Not SAT
+/20220315-MathProblems/STC_0464.smt2, 32.658145, Not SAT
+/20220315-MathProblems/STC_0465.smt2, 14.932929, SAT, x = -13 y = 11 z = 11 
+/20220315-MathProblems/STC_0466.smt2, 13.650956, SAT, x = -39 y = 17 z = 38 
+/20220315-MathProblems/STC_0467.smt2, 8.180120, SAT, x = -147 y = 101 z = 129 
+/20220315-MathProblems/STC_0468.smt2, 0.573879, SAT, x = -290 y = 195 z = 257 
+/20220315-MathProblems/STC_0469.smt2, 2.575125, SAT, x = -251 y = 166 z = 224 
+/20220315-MathProblems/STC_0470.smt2, 4.338111, SAT, x = -227 y = -132 z = 241 
+/20220315-MathProblems/STC_0471.smt2, 16.049710, SAT, x = 4 y = 4 z = 7 
+/20220315-MathProblems/STC_0472.smt2, 30.997156, Not SAT
+/20220315-MathProblems/STC_0473.smt2, 31.355223, Not SAT
+/20220315-MathProblems/STC_0474.smt2, 14.690115, SAT, x = -16 y = -7 z = 17 
+/20220315-MathProblems/STC_0475.smt2, 9.641657, SAT, x = -117 y = 83 z = 101 
+/20220315-MathProblems/STC_0476.smt2, 13.172891, SAT, x = -49 y = 30 z = 45 
+/20220315-MathProblems/STC_0477.smt2, 11.219055, SAT, x = -84 y = -35 z = 86 
+/20220315-MathProblems/STC_0478.smt2, 31.238327, Not SAT
+/20220315-MathProblems/STC_0479.smt2, 15.521585, SAT, x = -5 y = -5 z = 9 
+/20220315-MathProblems/STC_0480.smt2, 15.338667, SAT, x = -8 y = -2 z = 10 
+/20220315-MathProblems/STC_0481.smt2, 30.940100, Not SAT
+/20220315-MathProblems/STC_0482.smt2, 31.814715, Not SAT
+/20220315-MathProblems/STC_0483.smt2, 15.234037, SAT, x = -13 y = -4 z = 14 
+/20220315-MathProblems/STC_0484.smt2, 14.187437, SAT, x = -27 y = 20 z = 23 
+/20220315-MathProblems/STC_0485.smt2, 15.291223, SAT, x = -3 y = 0 z = 8 
+/20220315-MathProblems/STC_0486.smt2, 7.160625, SAT, x = -166 y = 121 z = 141 
+/20220315-MathProblems/STC_0487.smt2, 15.425608, SAT, x = -9 y = -8 z = 12 
+/20220315-MathProblems/STC_0488.smt2, 12.714550, SAT, x = -65 y = 49 z = 54 
+/20220315-MathProblems/STC_0489.smt2, 7.991927, SAT, x = -146 y = 40 z = 145 
+/20220315-MathProblems/STC_0490.smt2, 31.986160, Not SAT
+/20220315-MathProblems/STC_0491.smt2, 30.749581, Not SAT
+/20220315-MathProblems/STC_0492.smt2, 13.001798, SAT, x = -49 y = -19 z = 50 
+/20220315-MathProblems/STC_0493.smt2, 6.931003, SAT, x = -187 y = 93 z = 179 
+/20220315-MathProblems/STC_0494.smt2, 42.644467, Not SAT
+/20220315-MathProblems/STC_0495.smt2, 15.662514, SAT, x = -86 y = -28 z = 87 
+/20220315-MathProblems/STC_0496.smt2, 15.916060, SAT, x = -86 y = 44 z = 82 
+/20220315-MathProblems/STC_0497.smt2, 14.674934, SAT, x = -68 y = -42 z = 73 
+/20220315-MathProblems/STC_0498.smt2, 45.233265, Not SAT
+/20220315-MathProblems/STC_0499.smt2, 37.425970, Not SAT
+/20220315-MathProblems/STC_0500.smt2, 36.457265, Not SAT
+/20220315-MathProblems/STC_0501.smt2, 32.120613, Not SAT
+/20220315-MathProblems/STC_0502.smt2, 7.138253, SAT, x = -163 y = -126 z = 185 
+/20220315-MathProblems/STC_0503.smt2, 11.829391, SAT, x = -78 y = -49 z = 84 
+/20220315-MathProblems/STC_0504.smt2, 9.249646, SAT, x = -126 y = -74 z = 134 
+/20220315-MathProblems/STC_0505.smt2, 6.677584, SAT, x = -172 y = 64 z = 169 
+/20220315-MathProblems/STC_0506.smt2, 13.047149, SAT, x = -42 y = -17 z = 43 
+/20220315-MathProblems/STC_0507.smt2, 31.801917, Not SAT
+/20220315-MathProblems/STC_0508.smt2, 31.698901, Not SAT
+/20220315-MathProblems/STC_0509.smt2, 31.698603, Not SAT
+/20220315-MathProblems/STC_0510.smt2, 0.814294, SAT, x = -286 y = 227 z = 227 
+/20220315-MathProblems/STC_0511.smt2, 10.641760, SAT, x = -100 y = 39 z = 98 
+/20220315-MathProblems/STC_0512.smt2, 0.033531, SAT, x = -300 y = 8 z = 300 
+/20220315-MathProblems/STC_0513.smt2, 0.892249, SAT, x = -285 y = 141 z = 273 
+/20220315-MathProblems/STC_0514.smt2, 14.888183, SAT, x = -17 y = 11 z = 16 
+/20220315-MathProblems/STC_0515.smt2, 15.073978, SAT, x = -18 y = -8 z = 19 
+/20220315-MathProblems/STC_0516.smt2, 31.500156, Not SAT
+/20220315-MathProblems/STC_0517.smt2, 32.635497, Not SAT
+/20220315-MathProblems/STC_0518.smt2, 32.155402, Not SAT
+/20220315-MathProblems/STC_0519.smt2, 13.608797, SAT, x = -40 y = -34 z = 47 
+/20220315-MathProblems/STC_0520.smt2, 4.294211, SAT, x = -222 y = 170 z = 182 
+/20220315-MathProblems/STC_0521.smt2, 8.526379, SAT, x = -138 y = 81 z = 128 
+/20220315-MathProblems/STC_0522.smt2, 20.852916, SAT, x = -11 y = 5 z = 12 
+/20220315-MathProblems/STC_0523.smt2, 2.530751, SAT, x = -266 y = 75 z = 264 
+/20220315-MathProblems/STC_0524.smt2, 7.913430, SAT, x = -186 y = -47 z = 187 
+/20220315-MathProblems/STC_0525.smt2, 1.804243, SAT, x = -275 y = -77 z = 277 
+/20220315-MathProblems/STC_0526.smt2, 36.301499, Not SAT
+/20220315-MathProblems/STC_0527.smt2, 31.613821, Not SAT
+/20220315-MathProblems/STC_0528.smt2, 15.888298, SAT, x = 2 y = 2 z = 8 
+/20220315-MathProblems/STC_0529.smt2, 14.792581, SAT, x = -16 y = -15 z = 20 
+/20220315-MathProblems/STC_0530.smt2, 30.658459, Not SAT
+/20220315-MathProblems/STC_0531.smt2, 0.797037, SAT, x = -286 y = 90 z = 283 
+/20220315-MathProblems/STC_0532.smt2, 2.478566, SAT, x = -258 y = 147 z = 241 
+/20220315-MathProblems/STC_0533.smt2, 3.417153, SAT, x = -236 y = 117 z = 226 
+/20220315-MathProblems/STC_0534.smt2, 31.175373, Not SAT
+/20220315-MathProblems/STC_0535.smt2, 31.464111, Not SAT
+/20220315-MathProblems/STC_0536.smt2, 31.650189, Not SAT
+/20220315-MathProblems/STC_0537.smt2, 11.500542, SAT, x = -85 y = 35 z = 83 
+/20220315-MathProblems/STC_0538.smt2, 11.503933, SAT, x = -90 y = -67 z = 101 
+/20220315-MathProblems/STC_0539.smt2, 13.602486, SAT, x = -45 y = 26 z = 42 
+/20220315-MathProblems/STC_0540.smt2, 1.959768, SAT, x = -265 y = 94 z = 261 
+/20220315-MathProblems/STC_0541.smt2, 3.242827, SAT, x = -243 y = 172 z = 210 
+/20220315-MathProblems/STC_0542.smt2, 32.490196, Not SAT
+/20220315-MathProblems/STC_0543.smt2, 4.715353, SAT, x = -212 y = -116 z = 223 
+/20220315-MathProblems/STC_0544.smt2, 31.797031, Not SAT
+/20220315-MathProblems/STC_0545.smt2, 30.880746, Not SAT
+/20220315-MathProblems/STC_0546.smt2, 11.926040, SAT, x = -70 y = 41 z = 65 
+/20220315-MathProblems/STC_0547.smt2, 3.778673, SAT, x = -229 y = -54 z = 230 
+/20220315-MathProblems/STC_0548.smt2, 14.882068, SAT, x = -13 y = 1 z = 14 
+/20220315-MathProblems/STC_0549.smt2, 8.526666, SAT, x = -131 y = -54 z = 134 
+/20220315-MathProblems/STC_0550.smt2, 14.893879, SAT, x = -15 y = 12 z = 13 
+/20220315-MathProblems/STC_0551.smt2, 1.792444, SAT, x = -266 y = 199 z = 222 
+/20220315-MathProblems/STC_0552.smt2, 13.878951, SAT, x = -44 y = -38 z = 52 
+/20220315-MathProblems/STC_0553.smt2, 31.476858, Not SAT
+/20220315-MathProblems/STC_0554.smt2, 31.679460, Not SAT
+/20220315-MathProblems/STC_0555.smt2, 15.078448, SAT, x = -13 y = 2 z = 14 
+/20220315-MathProblems/STC_0556.smt2, 31.974219, Not SAT
+/20220315-MathProblems/STC_0557.smt2, 7.395042, SAT, x = -163 y = 122 z = 136 
+/20220315-MathProblems/STC_0558.smt2, 5.155919, SAT, x = -198 y = -49 z = 199 
+/20220315-MathProblems/STC_0559.smt2, 8.161351, SAT, x = -137 y = 99 z = 117 
+/20220315-MathProblems/STC_0560.smt2, 5.387144, SAT, x = -201 y = -128 z = 217 
+/20220315-MathProblems/STC_0561.smt2, 15.685917, SAT, x = -5 y = 7 z = 7 
+/20220315-MathProblems/STC_0562.smt2, 32.133760, Not SAT
+/20220315-MathProblems/STC_0563.smt2, 32.386424, Not SAT
+/20220315-MathProblems/STC_0564.smt2, 32.630465, Not SAT
+/20220315-MathProblems/STC_0565.smt2, 14.780646, SAT, x = -21 y = 17 z = 17 
+/20220315-MathProblems/STC_0566.smt2, 6.759377, SAT, x = -176 y = 65 z = 173 
+/20220315-MathProblems/STC_0567.smt2, 2.148312, SAT, x = -258 y = 84 z = 255 
+/20220315-MathProblems/STC_0568.smt2, 9.823517, SAT, x = -109 y = 85 z = 88 
+/20220315-MathProblems/STC_0569.smt2, 9.131041, SAT, x = -129 y = -59 z = 133 
+/20220315-MathProblems/STC_0570.smt2, 31.263262, Not SAT
+/20220315-MathProblems/STC_0571.smt2, 32.596807, Not SAT
+/20220315-MathProblems/STC_0572.smt2, 32.331630, Not SAT
+/20220315-MathProblems/STC_0573.smt2, 12.462120, SAT, x = -64 y = 29 z = 62 
+/20220315-MathProblems/STC_0574.smt2, 15.034174, SAT, x = -13 y = 3 z = 14 
+/20220315-MathProblems/STC_0575.smt2, 4.018010, SAT, x = -222 y = -178 z = 255 
+/20220315-MathProblems/STC_0576.smt2, 12.888847, SAT, x = -54 y = -26 z = 56 
+/20220315-MathProblems/STC_0577.smt2, 5.666487, SAT, x = -192 y = -48 z = 193 
+/20220315-MathProblems/STC_0578.smt2, 4.330584, SAT, x = -219 y = 166 z = 181 
+/20220315-MathProblems/STC_0579.smt2, 31.306457, Not SAT
+/20220315-MathProblems/STC_0580.smt2, 31.471448, Not SAT
+/20220315-MathProblems/STC_0581.smt2, 31.539214, Not SAT
+/20220315-MathProblems/STC_0582.smt2, 8.664980, SAT, x = -145 y = 50 z = 143 
+/20220315-MathProblems/STC_0583.smt2, 31.738560, Not SAT
+/20220315-MathProblems/STC_0584.smt2, 10.750560, SAT, x = -94 y = 58 z = 86 
+/20220315-MathProblems/STC_0585.smt2, 14.266061, SAT, x = -39 y = -16 z = 40 
+/20220315-MathProblems/STC_0586.smt2, 5.952201, SAT, x = -186 y = -119 z = 201 
+/20220315-MathProblems/STC_0587.smt2, 2.473436, SAT, x = -254 y = 123 z = 244 
+/20220315-MathProblems/STC_0588.smt2, 31.985953, Not SAT
+/20220315-MathProblems/STC_0589.smt2, 31.677283, Not SAT
+/20220315-MathProblems/STC_0590.smt2, 32.194056, Not SAT
+/20220315-MathProblems/STC_0591.smt2, 3.008231, SAT, x = -244 y = -145 z = 260 
+/20220315-MathProblems/STC_0592.smt2, 6.379254, SAT, x = -186 y = 47 z = 185 
+/20220315-MathProblems/STC_0593.smt2, 15.796584, SAT, x = -7 y = -4 z = 10 
+/20220315-MathProblems/STC_0594.smt2, 9.325456, SAT, x = -123 y = 77 z = 112 
+/20220315-MathProblems/STC_0595.smt2, 9.536051, SAT, x = -125 y = -36 z = 126 
+/20220315-MathProblems/STC_0596.smt2, 13.190205, SAT, x = -54 y = -41 z = 61 
+/20220315-MathProblems/STC_0597.smt2, 31.858486, Not SAT
+/20220315-MathProblems/STC_0598.smt2, 31.297770, Not SAT
+/20220315-MathProblems/STC_0599.smt2, 31.434327, Not SAT
+/20220315-MathProblems/STC_0600.smt2, 31.322511, Not SAT
+/20220315-MathProblems/STC_0601.smt2, 0.965239, SAT, x = -282 y = 62 z = 281 
+/20220315-MathProblems/STC_0602.smt2, 6.532188, SAT, x = -189 y = -60 z = 191 
+/20220315-MathProblems/STC_0603.smt2, 8.038098, SAT, x = -145 y = -113 z = 165 
+/20220315-MathProblems/STC_0604.smt2, 4.719295, SAT, x = -216 y = -131 z = 231 
+/20220315-MathProblems/STC_0605.smt2, 15.582529, SAT, x = -5 y = 1 z = 9 
+/20220315-MathProblems/STC_0606.smt2, 31.803352, Not SAT
+/20220315-MathProblems/STC_0607.smt2, 32.238397, Not SAT
+/20220315-MathProblems/STC_0608.smt2, 32.647243, Not SAT
+/20220315-MathProblems/STC_0609.smt2, 32.031150, Not SAT
+/20220315-MathProblems/STC_0610.smt2, 9.883757, SAT, x = -103 y = -55 z = 108 
+/20220315-MathProblems/STC_0611.smt2, 8.040132, SAT, x = -157 y = 42 z = 156 
+/20220315-MathProblems/STC_0612.smt2, 14.691190, SAT, x = -19 y = 15 z = 16 
+/20220315-MathProblems/STC_0613.smt2, 15.480032, SAT, x = -11 y = 6 z = 12 
+/20220315-MathProblems/STC_0614.smt2, 15.453798, SAT, x = -9 y = 7 z = 10 
+/20220315-MathProblems/STC_0615.smt2, 11.096086, SAT, x = -89 y = -50 z = 94 
+/20220315-MathProblems/STC_0616.smt2, 31.109464, Not SAT
+/20220315-MathProblems/STC_0617.smt2, 30.560422, Not SAT
+/20220315-MathProblems/STC_0618.smt2, 31.397508, Not SAT
+/20220315-MathProblems/STC_0619.smt2, 13.947937, SAT, x = -33 y = 23 z = 29 
+/20220315-MathProblems/STC_0620.smt2, 9.670871, SAT, x = -109 y = 33 z = 108 
+/20220315-MathProblems/STC_0621.smt2, 31.982779, Not SAT
+/20220315-MathProblems/STC_0622.smt2, 13.398661, SAT, x = -51 y = 33 z = 46 
+/20220315-MathProblems/STC_0623.smt2, 10.178949, SAT, x = -105 y = -32 z = 106 
+/20220315-MathProblems/STC_0624.smt2, 10.084472, SAT, x = -110 y = 52 z = 106 
+/20220315-MathProblems/STC_0625.smt2, 31.591092, Not SAT
+/20220315-MathProblems/STC_0626.smt2, 31.596780, Not SAT
+/20220315-MathProblems/STC_0627.smt2, 32.050051, Not SAT
+/20220315-MathProblems/STC_0628.smt2, 31.486466, Not SAT
+/20220315-MathProblems/STC_0629.smt2, 2.602854, SAT, x = -250 y = -212 z = 293 
+/20220315-MathProblems/STC_0630.smt2, 5.716765, SAT, x = -198 y = 49 z = 197 
+/20220315-MathProblems/STC_0631.smt2, 2.580353, SAT, x = -257 y = -93 z = 261 
+/20220315-MathProblems/STC_0632.smt2, 8.686197, SAT, x = -132 y = -98 z = 148 
+/20220315-MathProblems/STC_0633.smt2, 30.785602, Not SAT
+/20220315-MathProblems/STC_0634.smt2, 30.903485, Not SAT
+/20220315-MathProblems/STC_0635.smt2, 32.442091, Not SAT
+/20220315-MathProblems/STC_0636.smt2, 15.920586, SAT, x = -1 y = 5 z = 8 
+/20220315-MathProblems/STC_0637.smt2, 14.837556, SAT, x = -27 y = 14 z = 26 
+/20220315-MathProblems/STC_0638.smt2, 0.388765, SAT, x = -293 y = 131 z = 284 
+/20220315-MathProblems/STC_0639.smt2, 10.112291, SAT, x = -115 y = -63 z = 121 
+/20220315-MathProblems/STC_0640.smt2, 15.740575, SAT, x = -12 y = -12 z = 16 
+/20220315-MathProblems/STC_0641.smt2, 31.540480, Not SAT
+/20220315-MathProblems/STC_0642.smt2, 31.698121, Not SAT
+/20220315-MathProblems/STC_0643.smt2, 32.093352, Not SAT
+/20220315-MathProblems/STC_0644.smt2, 31.409948, Not SAT
+/20220315-MathProblems/STC_0645.smt2, 15.465938, SAT, x = -7 y = -7 z = 11 
+/20220315-MathProblems/STC_0646.smt2, 6.317244, SAT, x = -175 y = -171 z = 218 
+/20220315-MathProblems/STC_0647.smt2, 15.123359, SAT, x = -12 y = -10 z = 15 
+/20220315-MathProblems/STC_0648.smt2, 13.206667, SAT, x = -46 y = 19 z = 45 
+/20220315-MathProblems/STC_0649.smt2, 2.966526, SAT, x = -242 y = 56 z = 241 
+/20220315-MathProblems/STC_0650.smt2, 14.960833, SAT, x = -11 y = -6 z = 13 
+/20220315-MathProblems/STC_0651.smt2, 8.606335, SAT, x = -134 y = -77 z = 142 
+/20220315-MathProblems/STC_0652.smt2, 31.001247, Not SAT
+/20220315-MathProblems/STC_0653.smt2, 31.430952, Not SAT
+/20220315-MathProblems/STC_0654.smt2, 12.144854, SAT, x = -73 y = -73 z = 92 
+/20220315-MathProblems/STC_0655.smt2, 0.502206, SAT, x = -291 y = 173 z = 269 
+/20220315-MathProblems/STC_0656.smt2, 11.713984, SAT, x = -74 y = -37 z = 77 
+/20220315-MathProblems/STC_0657.smt2, 9.698250, SAT, x = -114 y = 34 z = 113 
+/20220315-MathProblems/STC_0658.smt2, 13.012322, SAT, x = -57 y = -21 z = 58 
+/20220315-MathProblems/STC_0659.smt2, 3.770717, SAT, x = -228 y = -104 z = 235 
+/20220315-MathProblems/STC_0660.smt2, 31.515936, Not SAT
+/20220315-MathProblems/STC_0661.smt2, 31.070680, Not SAT
+/20220315-MathProblems/STC_0662.smt2, 32.064163, Not SAT
+/20220315-MathProblems/STC_0663.smt2, 31.427316, Not SAT
+/20220315-MathProblems/STC_0664.smt2, 5.698581, SAT, x = -192 y = -172 z = 230 
+/20220315-MathProblems/STC_0665.smt2, 7.008725, SAT, x = -175 y = -57 z = 177 
+/20220315-MathProblems/STC_0666.smt2, 4.765953, SAT, x = -208 y = 135 z = 187 
+/20220315-MathProblems/STC_0667.smt2, 11.992270, SAT, x = -69 y = -24 z = 70 
+/20220315-MathProblems/STC_0668.smt2, 15.663696, SAT, x = -5 y = 4 z = 9 
+/20220315-MathProblems/STC_0669.smt2, 15.141252, SAT, x = -11 y = 10 z = 10 
+/20220315-MathProblems/STC_0670.smt2, 31.850282, Not SAT
+/20220315-MathProblems/STC_0671.smt2, 32.159715, Not SAT
+/20220315-MathProblems/STC_0672.smt2, 15.426573, SAT, x = -13 y = 5 z = 14 
+/20220315-MathProblems/STC_0673.smt2, 1.781033, SAT, x = -265 y = -201 z = 299 
+/20220315-MathProblems/STC_0674.smt2, 13.007223, SAT, x = -54 y = 21 z = 53 
+/20220315-MathProblems/STC_0675.smt2, 6.527043, SAT, x = -180 y = 46 z = 179 
+/20220315-MathProblems/STC_0676.smt2, 5.204920, SAT, x = -197 y = -78 z = 201 
+/20220315-MathProblems/STC_0677.smt2, 31.537997, Not SAT
+/20220315-MathProblems/STC_0678.smt2, 14.823698, SAT, x = -23 y = 13 z = 22 
+/20220315-MathProblems/STC_0679.smt2, 32.318538, Not SAT
+/20220315-MathProblems/STC_0680.smt2, 32.152890, Not SAT
+/20220315-MathProblems/STC_0681.smt2, 15.729885, SAT, x = -7 y = 8 z = 8 
+/20220315-MathProblems/STC_0682.smt2, 32.780108, Not SAT
+/20220315-MathProblems/STC_0683.smt2, 10.563363, SAT, x = -99 y = -39 z = 101 
+/20220315-MathProblems/STC_0684.smt2, 9.493645, SAT, x = -119 y = -85 z = 132 
+/20220315-MathProblems/STC_0685.smt2, 12.152064, SAT, x = -67 y = 34 z = 64 
+/20220315-MathProblems/STC_0686.smt2, 9.176720, SAT, x = -120 y = -35 z = 121 
+/20220315-MathProblems/STC_0687.smt2, 16.083432, SAT, x = 1 y = 7 z = 7 
+/20220315-MathProblems/STC_0688.smt2, 31.769884, Not SAT
+/20220315-MathProblems/STC_0689.smt2, 30.995032, Not SAT
+/20220315-MathProblems/STC_0690.smt2, 7.292790, SAT, x = -163 y = -43 z = 164 
+/20220315-MathProblems/STC_0691.smt2, 32.870471, Not SAT
+/20220315-MathProblems/STC_0692.smt2, 6.652732, SAT, x = -177 y = 117 z = 158 
+/20220315-MathProblems/STC_0693.smt2, 2.901839, SAT, x = -245 y = 71 z = 243 
+/20220315-MathProblems/STC_0694.smt2, 5.315989, SAT, x = -209 y = 111 z = 198 
+/20220315-MathProblems/STC_0695.smt2, 13.687509, SAT, x = -35 y = -33 z = 43 
+/20220315-MathProblems/STC_0696.smt2, 32.517028, Not SAT
+/20220315-MathProblems/STC_0697.smt2, 31.668465, Not SAT
+/20220315-MathProblems/STC_0698.smt2, 31.614766, Not SAT
+/20220315-MathProblems/STC_0699.smt2, 12.410824, SAT, x = -61 y = -22 z = 62 
+/20220315-MathProblems/STC_0700.smt2, 14.995224, SAT, x = -15 y = 11 z = 14 
+/20220315-MathProblems/STC_0701.smt2, 6.236166, SAT, x = -188 y = -100 z = 197 
+/20220315-MathProblems/STC_0702.smt2, 15.737652, SAT, x = -3 y = 0 z = 9 
+/20220315-MathProblems/STC_0703.smt2, 14.479099, SAT, x = -17 y = -6 z = 18 
+/20220315-MathProblems/STC_0704.smt2, 12.151421, SAT, x = -65 y = -23 z = 66 
+/20220315-MathProblems/STC_0705.smt2, 31.248492, Not SAT
+/20220315-MathProblems/STC_0706.smt2, 30.944123, Not SAT
+/20220315-MathProblems/STC_0707.smt2, 31.986789, Not SAT
+/20220315-MathProblems/STC_0708.smt2, 31.252953, Not SAT
+/20220315-MathProblems/STC_0709.smt2, 14.082133, SAT, x = -28 y = -12 z = 29 
+/20220315-MathProblems/STC_0710.smt2, 6.176996, SAT, x = -181 y = -157 z = 214 
+/20220315-MathProblems/STC_0711.smt2, 7.253615, SAT, x = -162 y = -74 z = 167 
+/20220315-MathProblems/STC_0712.smt2, 12.669723, SAT, x = -56 y = -37 z = 61 
+/20220315-MathProblems/STC_0713.smt2, 13.502051, SAT, x = -33 y = 19 z = 31 
+/20220315-MathProblems/STC_0714.smt2, 11.825142, SAT, x = -71 y = 25 z = 70 
+/20220315-MathProblems/STC_0715.smt2, 31.455069, Not SAT
+/20220315-MathProblems/STC_0716.smt2, 31.331329, Not SAT
+/20220315-MathProblems/STC_0717.smt2, 9.520757, SAT, x = -115 y = -34 z = 116 
+/20220315-MathProblems/STC_0718.smt2, 30.627701, Not SAT
+/20220315-MathProblems/STC_0719.smt2, 10.879028, SAT, x = -84 y = -81 z = 104 
+/20220315-MathProblems/STC_0720.smt2, 0.687270, SAT, x = -287 y = -121 z = 294 
+/20220315-MathProblems/STC_0721.smt2, 5.986149, SAT, x = -182 y = -135 z = 204 
+/20220315-MathProblems/STC_0722.smt2, 11.606031, SAT, x = -80 y = 27 z = 79 
+/20220315-MathProblems/STC_0723.smt2, 8.636966, SAT, x = -131 y = -47 z = 133 
+/20220315-MathProblems/STC_0724.smt2, 30.783778, Not SAT
+/20220315-MathProblems/STC_0725.smt2, 31.284920, Not SAT
+/20220315-MathProblems/STC_0726.smt2, 30.613541, Not SAT
+/20220315-MathProblems/STC_0727.smt2, 14.087039, SAT, x = -25 y = -22 z = 30 
+/20220315-MathProblems/STC_0728.smt2, 0.634516, SAT, x = -288 y = -91 z = 291 
+/20220315-MathProblems/STC_0729.smt2, 0.026330, SAT, x = -300 y = 9 z = 300 
+/20220315-MathProblems/STC_0730.smt2, 14.960551, SAT, x = -5 y = 7 z = 8 
+/20220315-MathProblems/STC_0731.smt2, 15.457687, SAT, x = 1 y = 1 z = 9 
+/20220315-MathProblems/STC_0732.smt2, 31.583479, Not SAT
+/20220315-MathProblems/STC_0733.smt2, 31.781219, Not SAT
+/20220315-MathProblems/STC_0734.smt2, 31.011221, Not SAT
+/20220315-MathProblems/STC_0735.smt2, 31.365714, Not SAT
+/20220315-MathProblems/STC_0736.smt2, 3.103959, SAT, x = -238 y = -112 z = 246 
+/20220315-MathProblems/STC_0737.smt2, 7.555528, SAT, x = -152 y = 98 z = 137 
+/20220315-MathProblems/STC_0738.smt2, 16.243052, SAT, x = 1 y = 2 z = 9 
+/20220315-MathProblems/STC_0739.smt2, 2.090804, SAT, x = -260 y = -172 z = 283 
+/20220315-MathProblems/STC_0740.smt2, 14.816420, SAT, x = -35 y = 24 z = 31 
+/20220315-MathProblems/STC_0741.smt2, 16.216709, SAT, x = -11 y = -5 z = 13 
+/20220315-MathProblems/STC_0742.smt2, 32.550330, Not SAT
+/20220315-MathProblems/STC_0743.smt2, 31.092789, Not SAT
+/20220315-MathProblems/STC_0744.smt2, 15.438542, SAT, x = -10 y = -10 z = 14 
+/20220315-MathProblems/STC_0745.smt2, 15.604924, SAT, x = 2 y = 2 z = 9 
+/20220315-MathProblems/STC_0746.smt2, 8.732994, SAT, x = -135 y = 68 z = 129 
+/20220315-MathProblems/STC_0747.smt2, 31.074872, Not SAT
+/20220315-MathProblems/STC_0748.smt2, 8.709230, SAT, x = -141 y = -39 z = 142 
+/20220315-MathProblems/STC_0749.smt2, 1.416982, SAT, x = -275 y = 175 z = 249 
+/20220315-MathProblems/STC_0750.smt2, 15.335689, SAT, x = -5 y = -5 z = 10 
+/20220315-MathProblems/STC_0751.smt2, 31.834557, Not SAT
+/20220315-MathProblems/STC_0752.smt2, 31.279912, Not SAT
+/20220315-MathProblems/STC_0753.smt2, 14.640674, SAT, x = -16 y = -4 z = 17 
+/20220315-MathProblems/STC_0754.smt2, 31.634362, Not SAT
+/20220315-MathProblems/STC_0755.smt2, 7.669228, SAT, x = -154 y = 112 z = 131 
+/20220315-MathProblems/STC_0756.smt2, 6.617938, SAT, x = -177 y = 93 z = 168 
+/20220315-MathProblems/STC_0757.smt2, 1.862950, SAT, x = -264 y = 172 z = 237 
+/20220315-MathProblems/STC_0758.smt2, 31.560462, Not SAT
+/20220315-MathProblems/STC_0759.smt2, 11.824386, SAT, x = -83 y = 43 z = 79 
+/20220315-MathProblems/STC_0760.smt2, 32.093835, Not SAT
+/20220315-MathProblems/STC_0761.smt2, 31.400628, Not SAT
+/20220315-MathProblems/STC_0762.smt2, 16.465375, SAT, x = 5 y = 5 z = 8 
+/20220315-MathProblems/STC_0763.smt2, 4.801953, SAT, x = -204 y = 50 z = 203 
+/20220315-MathProblems/STC_0764.smt2, 13.122697, SAT, x = -43 y = -17 z = 44 
+/20220315-MathProblems/STC_0765.smt2, 32.095057, Not SAT
+/20220315-MathProblems/STC_0766.smt2, 1.640951, SAT, x = -269 y = -110 z = 275 
+/20220315-MathProblems/STC_0767.smt2, 32.476839, Not SAT
+/20220315-MathProblems/STC_0768.smt2, 13.126551, SAT, x = -44 y = 28 z = 40 
+/20220315-MathProblems/STC_0769.smt2, 31.147246, Not SAT
+/20220315-MathProblems/STC_0770.smt2, 31.525209, Not SAT
+/20220315-MathProblems/STC_0771.smt2, 13.058994, SAT, x = -52 y = -40 z = 59 
+/20220315-MathProblems/STC_0772.smt2, 15.210606, SAT, x = -7 y = -6 z = 11 
+/20220315-MathProblems/STC_0773.smt2, 10.810867, SAT, x = -94 y = 30 z = 93 
+/20220315-MathProblems/STC_0774.smt2, 12.196365, SAT, x = -64 y = 33 z = 61 
+/20220315-MathProblems/STC_0775.smt2, 12.609838, SAT, x = -50 y = 28 z = 47 
+/20220315-MathProblems/STC_0776.smt2, 9.982556, SAT, x = -111 y = -65 z = 118 
+/20220315-MathProblems/STC_0777.smt2, 31.262784, Not SAT
+/20220315-MathProblems/STC_0778.smt2, 31.390878, Not SAT
+/20220315-MathProblems/STC_0779.smt2, 31.585893, Not SAT
+/20220315-MathProblems/STC_0780.smt2, 13.725069, SAT, x = -31 y = -13 z = 32 
+/20220315-MathProblems/STC_0781.smt2, 31.516182, Not SAT
+/20220315-MathProblems/STC_0782.smt2, 15.134461, SAT, x = -7 y = 5 z = 10 
+/20220315-MathProblems/STC_0783.smt2, 9.453793, SAT, x = -125 y = -99 z = 143 
+/20220315-MathProblems/STC_0784.smt2, 0.986025, SAT, x = -282 y = 78 z = 280 
+/20220315-MathProblems/STC_0785.smt2, 9.481805, SAT, x = -119 y = -68 z = 126 
+/20220315-MathProblems/STC_0786.smt2, 31.696685, Not SAT
+/20220315-MathProblems/STC_0787.smt2, 31.250584, Not SAT
+/20220315-MathProblems/STC_0788.smt2, 41.445750, Not SAT
+/20220315-MathProblems/STC_0789.smt2, 32.883716, Not SAT
+/20220315-MathProblems/STC_0790.smt2, 14.295568, SAT, x = -22 y = -9 z = 23 
+/20220315-MathProblems/STC_0791.smt2, 10.663624, SAT, x = -98 y = -73 z = 110 
+/20220315-MathProblems/STC_0792.smt2, 6.360085, SAT, x = -177 y = -118 z = 193 
+/20220315-MathProblems/STC_0793.smt2, 14.214481, SAT, x = -26 y = 14 z = 25 
+/20220315-MathProblems/STC_0794.smt2, 14.724336, SAT, x = -17 y = -5 z = 18 
+/20220315-MathProblems/STC_0795.smt2, 32.138421, Not SAT
+/20220315-MathProblems/STC_0796.smt2, 32.516837, Not SAT
+/20220315-MathProblems/STC_0797.smt2, 37.513140, Not SAT
+/20220315-MathProblems/STC_0798.smt2, 17.908207, SAT, x = -19 y = -7 z = 20 
+/20220315-MathProblems/STC_0799.smt2, 37.221128, Not SAT
+/20220315-MathProblems/STC_0800.smt2, 18.024604, SAT, x = -12 y = -6 z = 14 
+/20220315-MathProblems/STC_0801.smt2, 2.880570, SAT, x = -255 y = 58 z = 254 
+/20220315-MathProblems/STC_0802.smt2, 18.266520, SAT, x = -11 y = -4 z = 13 
+/20220315-MathProblems/STC_0803.smt2, 3.713275, SAT, x = -242 y = -56 z = 243 
+/20220315-MathProblems/STC_0804.smt2, 34.010669, Not SAT
+/20220315-MathProblems/STC_0805.smt2, 32.861165, Not SAT
+/20220315-MathProblems/STC_0806.smt2, 36.645581, Not SAT
+/20220315-MathProblems/STC_0807.smt2, 14.308732, SAT, x = -82 y = -73 z = 98 
+/20220315-MathProblems/STC_0808.smt2, 8.841166, SAT, x = -166 y = 92 z = 156 
+/20220315-MathProblems/STC_0809.smt2, 12.464591, SAT, x = -79 y = 38 z = 76 
+/20220315-MathProblems/STC_0810.smt2, 9.116523, SAT, x = -137 y = 83 z = 126 
+/20220315-MathProblems/STC_0811.smt2, 3.556621, SAT, x = -233 y = 129 z = 219 
+/20220315-MathProblems/STC_0812.smt2, 18.041213, SAT, x = -12 y = 7 z = 13 
+/20220315-MathProblems/STC_0813.smt2, 38.907026, Not SAT
+/20220315-MathProblems/STC_0814.smt2, 49.500826, Not SAT
+/20220315-MathProblems/STC_0815.smt2, 38.299320, Not SAT
+/20220315-MathProblems/STC_0816.smt2, 15.244257, SAT, x = -16 y = -1 z = 17 
+/20220315-MathProblems/STC_0817.smt2, 16.460924, SAT, x = -16 y = 0 z = 17 
+/20220315-MathProblems/STC_0818.smt2, 5.590872, SAT, x = -196 y = 133 z = 173 
+/20220315-MathProblems/STC_0819.smt2, 13.877406, SAT, x = -35 y = -25 z = 39 
+/20220315-MathProblems/STC_0820.smt2, 5.628526, SAT, x = -201 y = 157 z = 162 
+/20220315-MathProblems/STC_0821.smt2, 32.911331, Not SAT
+/20220315-MathProblems/STC_0822.smt2, 14.895482, SAT, x = -17 y = -17 z = 22 
+/20220315-MathProblems/STC_0823.smt2, 32.721105, Not SAT
+/20220315-MathProblems/STC_0824.smt2, 31.011841, Not SAT
+/20220315-MathProblems/STC_0825.smt2, 13.401853, SAT, x = -40 y = -16 z = 41 
+/20220315-MathProblems/STC_0826.smt2, 31.249535, Not SAT
+/20220315-MathProblems/STC_0827.smt2, 3.821754, SAT, x = -229 y = 54 z = 228 
+/20220315-MathProblems/STC_0828.smt2, 15.913808, SAT, x = -3 y = 7 z = 8 
+/20220315-MathProblems/STC_0829.smt2, 32.212685, Not SAT
+/20220315-MathProblems/STC_0830.smt2, 32.016177, Not SAT
+/20220315-MathProblems/STC_0831.smt2, 16.073740, SAT, x = -8 y = 7 z = 10 
+/20220315-MathProblems/STC_0832.smt2, 30.982311, Not SAT
+/20220315-MathProblems/STC_0833.smt2, 30.777030, Not SAT
+/20220315-MathProblems/STC_0834.smt2, 31.979340, Not SAT
+/20220315-MathProblems/STC_0835.smt2, 14.909825, SAT, x = -13 y = -7 z = 15 
+/20220315-MathProblems/STC_0836.smt2, 31.317368, Not SAT
+/20220315-MathProblems/STC_0837.smt2, 3.183678, SAT, x = -240 y = 122 z = 229 
+/20220315-MathProblems/STC_0838.smt2, 14.996899, SAT, x = -14 y = -11 z = 17 
+/20220315-MathProblems/STC_0839.smt2, 15.193824, SAT, x = -11 y = -3 z = 13 
+/20220315-MathProblems/STC_0840.smt2, 14.949107, SAT, x = -14 y = -8 z = 16 
+/20220315-MathProblems/STC_0841.smt2, 31.356991, Not SAT
+/20220315-MathProblems/STC_0842.smt2, 30.979262, Not SAT
+/20220315-MathProblems/STC_0843.smt2, 15.214474, SAT, x = -10 y = 8 z = 11 
+/20220315-MathProblems/STC_0844.smt2, 14.086346, SAT, x = -37 y = -15 z = 38 
+/20220315-MathProblems/STC_0845.smt2, 15.247826, SAT, x = -16 y = 13 z = 14 
+/20220315-MathProblems/STC_0846.smt2, 9.712322, SAT, x = -116 y = 81 z = 101 
+/20220315-MathProblems/STC_0847.smt2, 14.071780, SAT, x = -27 y = -21 z = 31 
+/20220315-MathProblems/STC_0848.smt2, 7.558447, SAT, x = -152 y = -41 z = 153 
+/20220315-MathProblems/STC_0849.smt2, 12.161249, SAT, x = -62 y = -47 z = 70 
+/20220315-MathProblems/STC_0850.smt2, 30.885300, Not SAT
+/20220315-MathProblems/STC_0851.smt2, 31.584589, Not SAT
+/20220315-MathProblems/STC_0852.smt2, 6.426047, SAT, x = -175 y = 131 z = 146 
+/20220315-MathProblems/STC_0853.smt2, 6.607316, SAT, x = -172 y = -166 z = 213 
+/20220315-MathProblems/STC_0854.smt2, 12.513374, SAT, x = -57 y = -40 z = 63 
+/20220315-MathProblems/STC_0855.smt2, 3.613209, SAT, x = -231 y = 175 z = 191 
+/20220315-MathProblems/STC_0856.smt2, 10.669652, SAT, x = -96 y = -56 z = 102 
+/20220315-MathProblems/STC_0857.smt2, 0.040503, SAT, x = -300 y = 142 z = 289 
+/20220315-MathProblems/STC_0858.smt2, 14.800691, SAT, x = -11 y = -2 z = 13 
+/20220315-MathProblems/STC_0859.smt2, 31.627553, Not SAT
+/20220315-MathProblems/STC_0860.smt2, 45.817335, Not SAT
+/20220315-MathProblems/STC_0861.smt2, 38.767375, Not SAT
+/20220315-MathProblems/STC_0862.smt2, 1.397053, SAT, x = -280 y = 161 z = 261 
+/20220315-MathProblems/STC_0863.smt2, 18.919318, SAT, x = -28 y = 22 z = 23 
+/20220315-MathProblems/STC_0864.smt2, 10.605656, SAT, x = -138 y = 95 z = 121 
+/20220315-MathProblems/STC_0865.smt2, 21.280159, SAT, x = -57 y = 27 z = 55 
+/20220315-MathProblems/STC_0866.smt2, 26.491268, SAT, x = -11 y = 0 z = 13 
+/20220315-MathProblems/STC_0867.smt2, 25.774188, SAT, x = -11 y = 1 z = 13 
+/20220315-MathProblems/STC_0868.smt2, 38.563230, Not SAT
+/20220315-MathProblems/STC_0869.smt2, 39.872179, Not SAT
+/20220315-MathProblems/STC_0870.smt2, 45.685772, Not SAT
+/20220315-MathProblems/STC_0871.smt2, 40.160964, Not SAT
+/20220315-MathProblems/STC_0872.smt2, 5.852947, SAT, x = -232 y = -123 z = 243 
+/20220315-MathProblems/STC_0873.smt2, 5.700015, SAT, x = -228 y = -191 z = 266 
+/20220315-MathProblems/STC_0874.smt2, 10.991842, SAT, x = -160 y = 61 z = 157 
+/20220315-MathProblems/STC_0875.smt2, 23.439609, SAT, x = -21 y = -8 z = 22 
+/20220315-MathProblems/STC_0876.smt2, 23.188066, SAT, x = -5 y = 1 z = 10 
+/20220315-MathProblems/STC_0877.smt2, 48.648772, Not SAT
+/20220315-MathProblems/STC_0878.smt2, 37.421097, Not SAT
+/20220315-MathProblems/STC_0879.smt2, 39.167382, Not SAT
+/20220315-MathProblems/STC_0880.smt2, 41.595619, Not SAT
+/20220315-MathProblems/STC_0881.smt2, 21.252625, SAT, x = -22 y = -16 z = 25 
+/20220315-MathProblems/STC_0882.smt2, 13.660801, SAT, x = -133 y = -113 z = 156 
+/20220315-MathProblems/STC_0883.smt2, 22.030954, SAT, x = -29 y = -12 z = 30 
+/20220315-MathProblems/STC_0884.smt2, 46.298920, Not SAT
+/20220315-MathProblems/STC_0885.smt2, 59.141139, Not SAT
+/20220315-MathProblems/STC_0886.smt2, 52.697677, Not SAT
+/20220315-MathProblems/STC_0887.smt2, 53.396605, Not SAT
+/20220315-MathProblems/STC_0888.smt2, 22.531817, SAT, x = -46 y = -37 z = 53 
+/20220315-MathProblems/STC_0889.smt2, 1.254153, SAT, x = -288 y = 224 z = 233 
+/20220315-MathProblems/STC_0890.smt2, 25.807977, SAT, x = -17 y = -13 z = 20 
+/20220315-MathProblems/STC_0891.smt2, 20.038094, SAT, x = -14 y = -13 z = 18 
+/20220315-MathProblems/STC_0892.smt2, 14.499455, SAT, x = -89 y = 29 z = 88 
+/20220315-MathProblems/STC_0893.smt2, 16.907695, SAT, x = -99 y = 52 z = 94 
+/20220315-MathProblems/STC_0894.smt2, 47.304222, Not SAT
+/20220315-MathProblems/STC_0895.smt2, 53.040663, Not SAT
+/20220315-MathProblems/STC_0896.smt2, 49.161906, Not SAT
+/20220315-MathProblems/STC_0897.smt2, 47.491071, Not SAT
+/20220315-MathProblems/STC_0898.smt2, 16.887723, SAT, x = -103 y = -40 z = 105 
+/20220315-MathProblems/STC_0899.smt2, 6.074370, SAT, x = -223 y = 177 z = 177 
+/20220315-MathProblems/STC_0900.smt2, 20.147433, SAT, x = -29 y = -22 z = 33 
+/20220315-MathProblems/STC_0901.smt2, 19.331128, SAT, x = -11 y = -8 z = 14 
+/20220315-MathProblems/STC_0902.smt2, 15.754292, SAT, x = -81 y = 34 z = 79 
+/20220315-MathProblems/STC_0903.smt2, 48.132607, Not SAT
+/20220315-MathProblems/STC_0904.smt2, 43.803510, Not SAT
+/20220315-MathProblems/STC_0905.smt2, 43.802800, Not SAT
+/20220315-MathProblems/STC_0906.smt2, 40.159598, Not SAT
+/20220315-MathProblems/STC_0907.smt2, 14.641803, SAT, x = -88 y = 48 z = 83 
+/20220315-MathProblems/STC_0908.smt2, 42.476134, Not SAT
+/20220315-MathProblems/STC_0909.smt2, 5.045422, SAT, x = -222 y = -107 z = 230 
+/20220315-MathProblems/STC_0910.smt2, 18.897596, SAT, x = -29 y = -26 z = 35 
+/20220315-MathProblems/STC_0911.smt2, 19.268696, SAT, x = -87 y = 55 z = 79 
+/20220315-MathProblems/STC_0912.smt2, 55.518754, Not SAT
+/20220315-MathProblems/STC_0913.smt2, 53.083401, Not SAT
+/20220315-MathProblems/STC_0914.smt2, 47.284348, Not SAT
+/20220315-MathProblems/STC_0915.smt2, 41.700121, Not SAT
+/20220315-MathProblems/STC_0916.smt2, 18.932604, SAT, x = -37 y = 17 z = 36 
+/20220315-MathProblems/STC_0917.smt2, 8.455418, SAT, x = -182 y = -163 z = 218 
+/20220315-MathProblems/STC_0918.smt2, 7.916948, SAT, x = -191 y = -115 z = 204 
+/20220315-MathProblems/STC_0919.smt2, 15.244618, SAT, x = -105 y = 46 z = 102 
+/20220315-MathProblems/STC_0920.smt2, 19.064820, SAT, x = -24 y = 16 z = 22 
+/20220315-MathProblems/STC_0921.smt2, 41.118344, Not SAT
+/20220315-MathProblems/STC_0922.smt2, 41.781817, Not SAT
+/20220315-MathProblems/STC_0923.smt2, 44.725127, Not SAT
+/20220315-MathProblems/STC_0924.smt2, 25.582237, SAT, x = -7 y = -4 z = 11 
+/20220315-MathProblems/STC_0925.smt2, 24.640075, SAT, x = -75 y = 26 z = 74 
+/20220315-MathProblems/STC_0926.smt2, 51.317171, Not SAT
+/20220315-MathProblems/STC_0927.smt2, 15.529097, SAT, x = -110 y = 78 z = 95 
+/20220315-MathProblems/STC_0928.smt2, 18.492509, SAT, x = -23 y = -9 z = 24 
+/20220315-MathProblems/STC_0929.smt2, 17.274937, SAT, x = -56 y = 33 z = 52 
+/20220315-MathProblems/STC_0930.smt2, 1.910669, SAT, x = -275 y = 61 z = 274 
+/20220315-MathProblems/STC_0931.smt2, 44.122181, Not SAT
+/20220315-MathProblems/STC_0932.smt2, 35.319896, Not SAT
+/20220315-MathProblems/STC_0933.smt2, 34.448776, Not SAT
+/20220315-MathProblems/STC_0934.smt2, 17.299844, SAT, x = -12 y = 11 z = 11 
+/20220315-MathProblems/STC_0935.smt2, 15.579193, SAT, x = -9 y = -4 z = 12 
+/20220315-MathProblems/STC_0936.smt2, 17.173853, SAT, x = -21 y = 13 z = 20 
+/20220315-MathProblems/STC_0937.smt2, 11.283617, SAT, x = -96 y = -30 z = 97 
+/20220315-MathProblems/STC_0938.smt2, 11.551876, SAT, x = -140 y = 39 z = 139 
+/20220315-MathProblems/STC_0939.smt2, 22.676303, SAT, x = -5 y = 4 z = 10 
+/20220315-MathProblems/STC_0940.smt2, 37.856786, Not SAT
+/20220315-MathProblems/STC_0941.smt2, 36.215770, Not SAT
+/20220315-MathProblems/STC_0942.smt2, 17.767670, SAT, x = -16 y = 5 z = 17 
+/20220315-MathProblems/STC_0943.smt2, 10.877456, SAT, x = -154 y = 90 z = 143 
+/20220315-MathProblems/STC_0944.smt2, 6.186479, SAT, x = -198 y = 152 z = 162 
+/20220315-MathProblems/STC_0945.smt2, 14.144420, SAT, x = -39 y = -24 z = 42 
+/20220315-MathProblems/STC_0946.smt2, 21.929758, SAT, x = -26 y = 21 z = 21 
+/20220315-MathProblems/STC_0947.smt2, 23.022096, SAT, x = -5 y = 7 z = 9 
+/20220315-MathProblems/STC_0948.smt2, 38.300930, Not SAT
+/20220315-MathProblems/STC_0949.smt2, 32.034226, Not SAT
+/20220315-MathProblems/STC_0950.smt2, 32.682403, Not SAT
+/20220315-MathProblems/STC_0951.smt2, 15.185614, SAT, x = -25 y = -10 z = 26 
+/20220315-MathProblems/STC_0952.smt2, 20.171713, SAT, x = -28 y = -16 z = 30 
+/20220315-MathProblems/STC_0953.smt2, 6.018670, SAT, x = -223 y = -156 z = 246 
+/20220315-MathProblems/STC_0954.smt2, 9.516668, SAT, x = -224 y = -187 z = 261 
+/20220315-MathProblems/STC_0955.smt2, 50.976672, Not SAT
+/20220315-MathProblems/STC_0956.smt2, 23.863883, SAT, x = -51 y = -32 z = 55 
+/20220315-MathProblems/STC_0957.smt2, 44.190563, Not SAT
+/20220315-MathProblems/STC_0958.smt2, 40.019288, Not SAT
+/20220315-MathProblems/STC_0959.smt2, 37.571612, Not SAT
+/20220315-MathProblems/STC_0960.smt2, 7.986209, SAT, x = -184 y = 92 z = 176 
+/20220315-MathProblems/STC_0961.smt2, 7.176429, SAT, x = -220 y = -126 z = 233 
+/20220315-MathProblems/STC_0962.smt2, 17.598801, SAT, x = -45 y = 32 z = 39 
+/20220315-MathProblems/STC_0963.smt2, 13.726883, SAT, x = -64 y = -29 z = 66 
+/20220315-MathProblems/STC_0964.smt2, 34.374323, Not SAT
+/20220315-MathProblems/STC_0965.smt2, 11.048407, SAT, x = -92 y = 37 z = 90 
+/20220315-MathProblems/STC_0966.smt2, 33.562041, Not SAT
+/20220315-MathProblems/STC_0967.smt2, 34.354738, Not SAT
+/20220315-MathProblems/STC_0968.smt2, 34.962280, Not SAT
+/20220315-MathProblems/STC_0969.smt2, 39.689449, Not SAT
+/20220315-MathProblems/STC_0970.smt2, 8.134982, SAT, x = -151 y = 41 z = 150 
+/20220315-MathProblems/STC_0971.smt2, 32.917464, Not SAT
+/20220315-MathProblems/STC_0972.smt2, 4.197235, SAT, x = -225 y = 120 z = 213 
+/20220315-MathProblems/STC_0973.smt2, 3.525122, SAT, x = -236 y = -116 z = 245 
+/20220315-MathProblems/STC_0974.smt2, 17.793856, SAT, x = -14 y = 7 z = 15 
+/20220315-MathProblems/STC_0975.smt2, 40.307443, Not SAT
+/20220315-MathProblems/STC_0976.smt2, 44.395394, Not SAT
+/20220315-MathProblems/STC_0977.smt2, 35.065125, Not SAT
+/20220315-MathProblems/STC_0978.smt2, 35.655103, Not SAT
+/20220315-MathProblems/STC_0979.smt2, 16.078295, SAT, x = -22 y = -13 z = 24 
+/20220315-MathProblems/STC_0980.smt2, 4.837952, SAT, x = -223 y = -53 z = 224 
+/20220315-MathProblems/STC_0981.smt2, 7.619587, SAT, x = -170 y = -115 z = 186 
+/20220315-MathProblems/STC_0982.smt2, 35.650443, Not SAT
+/20220315-MathProblems/STC_0983.smt2, 17.376612, SAT, x = -17 y = 4 z = 18 
+/20220315-MathProblems/STC_0984.smt2, 13.080221, SAT, x = -74 y = -32 z = 76 
+/20220315-MathProblems/STC_0985.smt2, 36.702427, Not SAT
+/20220315-MathProblems/STC_0986.smt2, 34.159546, Not SAT
+/20220315-MathProblems/STC_0987.smt2, 16.688454, SAT, x = -7 y = -1 z = 11 
+/20220315-MathProblems/STC_0988.smt2, 13.214810, SAT, x = -69 y = 38 z = 65 
+/20220315-MathProblems/STC_0989.smt2, 6.588464, SAT, x = -194 y = -70 z = 197 
+/20220315-MathProblems/STC_0990.smt2, 12.141537, SAT, x = -82 y = 39 z = 79 
+/20220315-MathProblems/STC_0991.smt2, 16.492927, SAT, x = -11 y = 5 z = 13 
+/20220315-MathProblems/STC_0992.smt2, 13.898000, SAT, x = -53 y = 21 z = 52 
+/20220315-MathProblems/STC_0993.smt2, 17.435346, SAT, x = -2 y = 1 z = 10 
+/20220315-MathProblems/STC_0994.smt2, 35.848842, Not SAT
+/20220315-MathProblems/STC_0995.smt2, 36.055045, Not SAT
+/20220315-MathProblems/STC_0996.smt2, 18.222798, SAT, x = -7 y = 2 z = 11 
+/20220315-MathProblems/STC_0997.smt2, 8.747455, SAT, x = -153 y = 65 z = 149 
+/20220315-MathProblems/STC_0998.smt2, 16.570406, SAT, x = -9 y = -1 z = 12 
+/20220315-MathProblems/STC_0999.smt2, 7.658770, SAT, x = -168 y = 111 z = 150 
+/20220315-MathProblems/STC_1000.smt2, 0.040809, SAT, x = -300 y = 10 z = 300 

@@ -2,7 +2,7 @@
 
 # Define variables for the input directory and timeout value
 INPUT_DIR="../test/20220315-MathProblems/"
-TIMEOUT=300
+TIMEOUT=180
 
 FILE_NAME="results_original_cvc5_time_out_3_min.csv"
 

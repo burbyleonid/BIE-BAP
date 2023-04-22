@@ -11,13 +11,17 @@
 char  line[MAX_LINE_LENGTH];
 int   lineNumber = 0;
 char *linePointer = line;
-FILE *inputFile;
+FILE *inputFile = 0;
 int extendedLine = 0;
 
 
 // initialisation of input to a standard input or to a file input
 // standard input is selected if fileName is NULL
 int initInput(char* fileName) {
+  if (inputFile != 0) {
+    fclose(inputFile);
+    inputFile = 0;
+  }
   if (!fileName) {
     inputFile = stdin;
   } else {

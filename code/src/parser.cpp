@@ -357,6 +357,10 @@ std::map<std::string, int> test(size_t idx, std::vector<VarNode *> &vars,
                                 std::vector<Node*> &constraints,
                                 std::map<std::string, std::set<std::string>> &distinct)
 {
+  if ((dduration(std::chrono::high_resolution_clock::now() - start)).count() > timeout) {
+    return std::map<std::string, int>();
+  }
+
   if (idx == vars.size()) {
     bool flag = true;
     for (size_t i = 0; i < constraints.size(); ++i) {
@@ -393,6 +397,10 @@ std::map<std::string, int> test(size_t idx, std::vector<VarNode *> &vars,
     auto res = test(idx + 1, vars, curr, constraints, distinct);
     if (res.size() != 0) {
       return res;
+    }
+
+    if ((dduration(std::chrono::high_resolution_clock::now() - start)).count() > timeout) {
+      return std::map<std::string, int>();
     }
   }
 
@@ -459,6 +467,9 @@ std::map<std::string, int> Program()
         }
       }
     }
+    if ((dduration(std::chrono::high_resolution_clock::now() - start)).count() > timeout) {
+      return std::map<std::string, int>();
+    }
     if (!flag) {
       break;
     }
@@ -467,17 +478,14 @@ std::map<std::string, int> Program()
   std::map<std::string, int> cur;
   auto res = test(0, vars, cur, constraints, distinct);
 
-  if (res.size()) {
-    std::cout << "SAT:" << std::endl;
-    for (const auto &v : res) {
-      std::cout << v.first << " = " << v.second << std::endl;
-    }
-  } else {
-    std::cout << "Not SAT" << std::endl;
-  }
-
-
-  // auto debug = 5;
+//  if (res.size()) {
+//    std::cout << "SAT:" << std::endl;
+//    for (const auto &v : res) {
+//      std::cout << v.first << " = " << v.second << std::endl;
+//    }
+//  } else {
+//    std::cout << "Not SAT" << std::endl;
+//  }
 
   return res;
 }

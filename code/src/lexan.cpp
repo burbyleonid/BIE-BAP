@@ -319,7 +319,7 @@ q1:
     default:
       readInput();
       goto q1;
-  }
+  } 
 
 q11:
   switch(character) {

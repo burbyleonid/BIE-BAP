@@ -4,12 +4,14 @@
 #include <map>
 #include <string>
 #include "lexan.h"
+#include "externs.h"
 
 
-#define PLUS_INF (300)
-#define MINUS_INF (-PLUS_INF)
+//#define PLUS_INF (300)
+//#define MINUS_INF (-PLUS_INF)
 #define NODE_CONSTR_NAME ("___nodeConstr")
 
+using namespace externs;
 
 typedef enum {
   NoType = -1,
@@ -136,6 +138,5 @@ public:
 
 
 Node *SimplifyTree(Node*, std::map<std::string, VarNode *> &mVars);
-
 #endif
 

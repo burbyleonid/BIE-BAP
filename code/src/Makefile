@@ -1,6 +1,6 @@
 TARGET = comp
-CXX = g++
-CXXFLAGS = -std=c++17 -Wall -pedantic -Wno-long-long -O2
+CXX = g++-9
+CXXFLAGS = -std=c++17 -lstdc++ -Wall -pedantic -Wno-long-long -O2
 FILE = ../test/simple.smt2
 
 
@@ -16,7 +16,7 @@ all: $(TARGET)
 
 
 %.o: %.cpp $(HEADERS)
-	$(CXX)  $(CXXFLAGS) -c $< -o $@
+	$(CXX) $(CXXFLAGS) -c $< -o $@
 
 
 

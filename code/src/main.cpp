@@ -53,21 +53,21 @@ int main(int argc, char *argv[]) {
   }
 
 #else
-  FILE *out = fopen("/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/src/other_math_time_out_3_min.csv", "w");
+  FILE *out = fopen("/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/src/AProVE_time_out_3_min.csv", "w");
   fprintf(out, "Test name, Execution time, Result, Values\n");
   timeout = 0;
   if (argc == 1 || sscanf(argv[1], "%lf", &timeout) != 1) {
     timeout = 180;
   }
 
-    std::string path = "/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/20220315-MathProblems/";
+    std::string path = "/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/";
     for (const auto & entry : std::filesystem::directory_iterator(path)){
       std::string filename = entry.path().filename().string();
       
-        if (filename.find("STC") != std::string::npos) {
-        // Skip files that contain "STC" in their name
-        continue;
-        }
+        // if (filename.find("STC") != std::string::npos) {
+        // // Skip files that contain "STC" in their name
+        // continue;
+        // }
 
       // std::cout << entry.path().string() << std::endl;
 

@@ -1,0 +1,603 @@
+Test name, Execution time, Result, Values
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1001700549504608195.smt2, 180.000365, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1002369120799378097.smt2, 0.000895, SAT, a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1002987040614633432.smt2, 0.003946, SAT, a__10 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 b__11 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1003079011540423379.smt2, 23.974232, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__15 = 0 a__16 = 1 a__17 = 0 a__18 = 1 a__2 = 1 a__20 = 0 a__21 = 1 a__22 = 0 a__23 = 1 a__26 = 1 a__27 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1004548876139444098.smt2, 0.001202, SAT, a__2 = 0 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT100500964594886141.smt2, 180.000154, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1006593265001882878.smt2, 0.000798, SAT, a__3 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1007445772889800596.smt2, 180.000315, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1008289700543544835.smt2, 0.001576, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1009548771014223017.smt2, 0.023389, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 0 b__13 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1010832203505577909.smt2, 180.000377, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1011702640639437570.smt2, 0.005227, SAT, a__10 = 1 a__2 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT101417910736011502.smt2, 180.000262, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1016338376657137265.smt2, 0.001355, SAT, a__2 = 1 a__4 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1017370803858160340.smt2, 0.001163, SAT, a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1017862898884660660.smt2, 0.183190, SAT, a__10 = 1 a__11 = 1 a__12 = 1 a__13 = 1 a__14 = 1 a__15 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1021654105853853383.smt2, 0.001616, SAT, a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT102176498393626587.smt2, 180.000448, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1022543817592849705.smt2, 0.004248, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1023437561463628372.smt2, 1.056411, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__14 = 0 a__15 = 1 a__16 = 1 a__17 = 1 a__18 = 1 a__19 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1026916174897974995.smt2, 0.004257, SAT, a__2 = 0 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1031134853756247882.smt2, 0.001027, SAT, a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1033597413588659161.smt2, 180.000474, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1038244403212994346.smt2, 0.004610, SAT, a__2 = 0 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1044364220480225355.smt2, 0.000441, SAT, a__2 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1045293394610378205.smt2, 0.000460, SAT, a__2 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1047107094794491268.smt2, 180.000306, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1049786927316670908.smt2, 180.000163, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1052446639564253740.smt2, 0.004041, SAT, a__2 = 1 a__4 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1059628807158111792.smt2, 180.000240, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1061498247469120548.smt2, 0.026062, SAT, a__2 = 1 a__4 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT106352422603502658.smt2, 0.000967, SAT, a__4 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT106628954746449373.smt2, 180.000212, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1067132971625049215.smt2, 180.000720, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1067631316961394932.smt2, 180.000670, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1071993156819731935.smt2, 0.154085, SAT, a__1 = 0 a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 b__20 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1072646210924280341.smt2, 180.000214, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1074794681419974085.smt2, 180.000631, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1074996860240419241.smt2, 180.000456, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1076852626867582761.smt2, 0.001337, SAT, a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1079747557447732919.smt2, 0.000896, SAT, a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1090306236237454748.smt2, 0.065115, SAT, a__10 = 0 a__11 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__12 = 1 b__13 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1090696552017880877.smt2, 180.000728, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1091600435177837637.smt2, 180.000477, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1092050415997084290.smt2, 180.000187, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT109680382490054156.smt2, 180.000394, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1097886040970681958.smt2, 4.140690, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 1 a__17 = 0 a__18 = 0 a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 0 b__19 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1100514060021376770.smt2, 0.006381, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__10 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT110406245392905194.smt2, 0.000736, SAT, a__2 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1105246329636558105.smt2, 180.000296, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1105539647683048545.smt2, 180.000245, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT11071903920252280.smt2, 0.038052, SAT, a__10 = 0 a__11 = 0 a__12 = 1 a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1111950584443484839.smt2, 11.907353, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__14 = 1 a__15 = 0 a__16 = 1 a__17 = 0 a__18 = 1 a__19 = 1 a__2 = 1 a__20 = 1 a__21 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1119300235060080616.smt2, 180.000300, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1120806750067244286.smt2, 180.003471, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1126259332783840086.smt2, 180.000320, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1129263638860365935.smt2, 0.041433, SAT, a__10 = 0 a__11 = 0 a__12 = 1 a__13 = 1 a__14 = 1 a__15 = 0 a__2 = 1 a__4 = 0 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1129930781800243517.smt2, 180.000323, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1131084632749157593.smt2, 180.000577, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1133405555645861684.smt2, 0.031434, SAT, a__10 = 0 a__11 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 1 b__12 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1136728765063211050.smt2, 0.003581, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1137981959460799878.smt2, 0.001191, SAT, a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1139971295458406993.smt2, 180.000220, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1140677938224943908.smt2, 180.000423, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1143797630444483755.smt2, 1.122161, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__14 = 0 a__15 = 1 a__16 = 1 a__17 = 1 a__18 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1149677724843175347.smt2, 0.050072, SAT, a__1 = 0 a__10 = 1 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 b__19 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT115126613286344877.smt2, 0.001307, SAT, a__10 = 1 a__3 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1151853695059846557.smt2, 180.000758, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1153589067579791073.smt2, 5.482224, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__14 = 0 a__15 = 1 a__16 = 1 a__17 = 0 a__18 = 1 a__19 = 1 a__2 = 1 a__20 = 1 a__21 = 1 a__3 = 0 a__4 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1154766035975480809.smt2, 0.006520, SAT, a__10 = 0 a__11 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__12 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1158307652508608843.smt2, 180.000160, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1161342383912861322.smt2, 180.000182, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1161948753263403680.smt2, 180.000257, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1161980166555856613.smt2, 0.006151, SAT, a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1163698168838677581.smt2, 180.000420, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1166643921416851794.smt2, 180.000350, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1166681508436419880.smt2, 0.026026, SAT, a__2 = 1 a__3 = 0 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1167329477969666320.smt2, 180.000918, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1169386365884262180.smt2, 0.006341, SAT, a__2 = 0 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1179149253451050796.smt2, 0.002896, SAT, a__10 = 0 a__2 = 1 a__3 = 0 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 0 b__11 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1180108736816807287.smt2, 0.122738, SAT, a__1 = 0 a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT118153272687828027.smt2, 180.000558, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT118168160951800861.smt2, 0.005736, SAT, a__2 = 1 a__3 = 1 a__4 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1185795586397166796.smt2, 180.000288, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1185828802073926775.smt2, 180.000357, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1187219829289257398.smt2, 3.846325, SAT, a__1 = 0 a__10 = 1 a__11 = 0 a__12 = 0 a__13 = 1 a__14 = 0 a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 a__9 = 0 b__15 = 1 b__16 = 1 b__17 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1191102774836172547.smt2, 180.000346, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1191981403215669349.smt2, 180.000828, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1198434124194817634.smt2, 180.000601, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1200527572872618691.smt2, 180.000289, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1206601228391921498.smt2, 180.000396, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1207857789260966146.smt2, 0.397038, SAT, a__1 = 1 a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__14 = 0 b__15 = 1 b__16 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT120853607871141580.smt2, 0.001001, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1209827521045967401.smt2, 180.000277, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1212539544398592466.smt2, 0.005767, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1212736204104462763.smt2, 180.000223, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1214014197073442925.smt2, 180.000258, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1217967047636687417.smt2, 0.003005, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1222406278700673783.smt2, 180.000281, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1223215467645905128.smt2, 180.000541, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1224896630947600990.smt2, 0.002148, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1225674221248094847.smt2, 0.001105, SAT, a__2 = 1 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 b__10 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1237752424615770346.smt2, 180.000225, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1240905547370406987.smt2, 180.000241, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1245954485743221007.smt2, 0.010773, SAT, a__10 = 1 a__11 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1251847275790937561.smt2, 180.000194, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT125187419356719603.smt2, 180.000221, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1256079449125527892.smt2, 0.047053, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__15 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1261041288686639410.smt2, 0.000539, SAT, a__4 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1264507627742814619.smt2, 180.000727, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1265961604869732423.smt2, 180.000278, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1268945256864191742.smt2, 0.009665, SAT, a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 1 b__11 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT127177618181993725.smt2, 180.000573, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1272603054399714922.smt2, 180.001660, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1272662704634017030.smt2, 0.001013, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__18 = 0 b__19 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1273731352138297194.smt2, 180.000338, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1280282980500390082.smt2, 180.000169, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1280478447198435015.smt2, 180.000236, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1284980604806326417.smt2, 1.445353, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__14 = 0 a__15 = 1 a__16 = 1 a__17 = 1 a__18 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1287867959478678906.smt2, 0.001503, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1288761784791682820.smt2, 0.001629, SAT, a__2 = 0 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1290350034702307057.smt2, 180.000283, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1294590808882795189.smt2, 0.001023, SAT, a__2 = 1 a__3 = 0 a__5 = 1 a__7 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1296180034830538453.smt2, 39.288565, SAT, a__1 = 0 a__10 = 1 a__11 = 1 a__12 = 1 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 1 a__17 = 0 a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 b__18 = 1 b__19 = 1 b__20 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1296394515332697498.smt2, 180.000350, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1296851730265535359.smt2, 180.000580, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1296935848846667128.smt2, 0.005708, SAT, a__2 = 0 a__3 = 1 a__4 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1297568023746394660.smt2, 0.001267, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__15 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1301561149068337532.smt2, 0.001306, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1302492464160038682.smt2, 180.000217, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1302756442145899513.smt2, 0.005330, SAT, a__3 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1304805112424103007.smt2, 3.800354, SAT, a__2 = 4 a__3 = 1 a__4 = 1 a__5 = 2 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT130911952525388558.smt2, 180.000350, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1310583788905443267.smt2, 180.000300, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1313620458915187557.smt2, 180.000269, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1315949229485983679.smt2, 0.008435, SAT, a__10 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1321732654504728591.smt2, 0.179423, SAT, a__1 = 0 a__10 = 1 a__11 = 1 a__12 = 1 a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 a__9 = 0 b__13 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1324015061374043545.smt2, 180.000859, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1327713188219280379.smt2, 180.000586, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1329540615731828670.smt2, 180.000583, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1331671399110106547.smt2, 0.005792, SAT, a__2 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1333000487120247408.smt2, 180.000261, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1335852993657230070.smt2, 180.000199, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1340253123911260780.smt2, 180.000314, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1340559769396708357.smt2, 0.003612, SAT, a__2 = 0 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1341166607693039732.smt2, 180.000691, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1341881410111366005.smt2, 0.867936, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__14 = 1 b__15 = 0 b__16 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1342262329971728317.smt2, 180.000325, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1345515375530754027.smt2, 180.000224, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1350987983658953160.smt2, 0.005736, SAT, a__2 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1357141816009857110.smt2, 0.506913, SAT, a__1 = 0 a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__2 = 0 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 b__19 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1358305864349640900.smt2, 0.001225, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1358756504306056425.smt2, 180.000192, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1364093870217899063.smt2, 0.005716, SAT, a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1368200138446719805.smt2, 0.040250, SAT, a__10 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__11 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1369427554765674892.smt2, 180.000830, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1383742374956666401.smt2, 0.174200, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 0 b__15 = 1 b__16 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1385820267360259387.smt2, 180.000592, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1391217659146034548.smt2, 180.000270, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1393349130106307954.smt2, 180.000249, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1394189460402507471.smt2, 180.000164, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1396136545476996622.smt2, 180.000435, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1399941007211358275.smt2, 0.636444, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 1 a__20 = 0 a__21 = 0 a__22 = 0 a__23 = 0 a__24 = 0 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__25 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1407731390504487812.smt2, 180.000329, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1408201959929440103.smt2, 180.000194, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1408329727899482583.smt2, 0.027618, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 1 b__11 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT141510234371783052.smt2, 0.001458, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1417634923349622301.smt2, 180.000378, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1429092859451149480.smt2, 180.000405, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1433329195519261705.smt2, 180.000313, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1433751380059951964.smt2, 0.332052, SAT, a__10 = 1 a__11 = 0 a__12 = 1 a__13 = 1 a__14 = 1 a__15 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT143564062931235708.smt2, 180.000357, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1435845227327230808.smt2, 0.001029, SAT, a__2 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1436661845167250093.smt2, 180.000723, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1437438160177275586.smt2, 180.000335, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1439199208732245123.smt2, 180.000193, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1442342069351870170.smt2, 94.936045, SAT, a__1 = 1 a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 1 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 b__20 = 0 b__21 = 1 b__22 = 1 b__23 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT144364303553946193.smt2, 0.027732, SAT, a__2 = 1 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__10 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1444998859697836742.smt2, 0.002020, SAT, a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__8 = 1 b__20 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1449414910863045105.smt2, 180.000201, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1451460849315461898.smt2, 0.004519, SAT, a__2 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1464199103090412445.smt2, 180.000343, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT14682641666560919.smt2, 180.000203, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1471136376134147553.smt2, 180.000240, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1472683388595273634.smt2, 0.031619, SAT, a__10 = 1 a__11 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__9 = 0 b__12 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1475702495115273507.smt2, 180.000227, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1477246568665330987.smt2, 180.000303, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1480632897228167473.smt2, 0.006632, SAT, a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1481342301807665989.smt2, 0.002462, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1483550296069625454.smt2, 180.000309, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT148420930909957197.smt2, 180.000267, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1485348335910618247.smt2, 180.000312, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1485723438881836834.smt2, 180.000336, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1486822558467986393.smt2, 180.000317, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1487483765420573896.smt2, 180.000236, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1488028023346829742.smt2, 180.000266, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1490265037770049094.smt2, 180.000182, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1493211122690909738.smt2, 180.001074, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1493481579405010773.smt2, 180.000680, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1495471169759458844.smt2, 180.000264, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1507981101076215391.smt2, 0.005474, SAT, a__3 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1509084578101911401.smt2, 180.000184, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1510730073127582778.smt2, 0.005544, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__7 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1512594956864918898.smt2, 180.000521, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1520057653194473355.smt2, 0.005766, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 b__20 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1523980367405174209.smt2, 180.000240, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1524169612101880749.smt2, 180.000339, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1524826926711770017.smt2, 180.000257, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1525871176258874853.smt2, 180.000339, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1528276209530499763.smt2, 37.076040, SAT, a__1 = 0 a__10 = 1 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 0 a__20 = 0 a__21 = 0 a__22 = 0 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 1 b__23 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1530191844080893274.smt2, 180.002554, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1531524806192313496.smt2, 180.000262, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1532023922467952201.smt2, 10.405423, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 0 a__20 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 b__21 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1532693751142879387.smt2, 180.001089, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1534770428320025856.smt2, 0.008785, SAT, a__10 = 0 a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1536166449877633622.smt2, 180.001014, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1539895024285315873.smt2, 0.117521, SAT, a__1 = 0 a__10 = 1 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 b__19 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1544789664246371977.smt2, 180.001993, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1548237899504304431.smt2, 180.000652, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1552725945045906870.smt2, 0.003176, SAT, a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 0 a__7 = 0 b__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1556711866414050380.smt2, 0.000917, SAT, a__1 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1557215903627424869.smt2, 1.402640, SAT, a__10 = 1 a__11 = 0 a__12 = 1 a__13 = 0 a__14 = 1 a__15 = 0 a__16 = 1 a__17 = 1 a__18 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1561294428961634019.smt2, 180.000258, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1561977767902818035.smt2, 180.000763, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1562235939867086988.smt2, 180.000346, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1575921927310304758.smt2, 180.000332, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1587090375379285854.smt2, 0.065068, SAT, a__10 = 1 a__12 = 0 a__13 = 1 a__14 = 1 a__15 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1587909491858118390.smt2, 180.000363, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1591619124888968121.smt2, 0.005357, SAT, a__2 = 1 a__4 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1592969382084981369.smt2, 180.000449, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1593521587922959147.smt2, 180.000239, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1600414157221130678.smt2, 180.001021, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1601673458850878134.smt2, 180.000470, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1610616370283981200.smt2, 0.000993, SAT, a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1618056451133106448.smt2, 0.001593, SAT, a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1619938986991890573.smt2, 0.002941, SAT, a__2 = 0 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1623835320849046673.smt2, 4.446722, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 1 a__16 = 0 a__17 = 0 a__18 = 1 a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 1 b__19 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1624113917048396180.smt2, 0.006016, SAT, a__2 = 0 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 0 a__7 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1628722508654092569.smt2, 0.001862, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1639453584011788269.smt2, 0.002263, SAT, a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 0 b__10 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT164281113689408140.smt2, 0.001124, SAT, a__3 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1643036790343866300.smt2, 0.006956, SAT, a__10 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1644868940941972141.smt2, 180.000225, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1652619482144589486.smt2, 0.010372, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 b__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1654803757550782549.smt2, 0.001456, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1656844573245055412.smt2, 180.000275, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1661996666195454572.smt2, 180.000316, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT166207192320126878.smt2, 0.006699, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 1 a__20 = 0 a__21 = 0 a__22 = 0 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__24 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1666129670633360457.smt2, 180.000523, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1669457300444119286.smt2, 180.000345, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1670784237506184716.smt2, 0.016895, SAT, a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__10 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1673548157733187442.smt2, 4.674400, SAT, a__1 = 0 a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 1 a__20 = 0 a__21 = 0 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 0 b__22 = 0 b__23 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1674578023825251899.smt2, 180.000300, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1675975560109029137.smt2, 0.017188, SAT, a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__10 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1676012924572806871.smt2, 180.000175, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1676302656229570392.smt2, 0.289757, SAT, a__1 = 1 a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__2 = 0 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 1 b__19 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1682060320580950336.smt2, 0.005526, SAT, a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1682483342197094972.smt2, 180.000461, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1683649971378713743.smt2, 180.000539, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1685429701709911596.smt2, 180.000329, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1687255834442102506.smt2, 180.000402, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1694567211952786276.smt2, 0.140166, SAT, a__10 = 1 a__11 = 0 a__12 = 1 a__13 = 1 a__14 = 1 a__15 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1696056098573172102.smt2, 0.001053, SAT, a__2 = 0 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1696937418190827515.smt2, 0.001305, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 b__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1697563446985587562.smt2, 0.000481, SAT, a__3 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1697705555518566473.smt2, 0.002548, SAT, a__10 = 0 a__11 = 0 a__2 = 1 a__3 = 0 a__4 = 0 a__6 = 1 a__7 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1700028870436976635.smt2, 180.000188, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1704515351751905084.smt2, 0.001742, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 b__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1705398915961754594.smt2, 180.000891, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1709482801492808359.smt2, 180.000160, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1711617913584684778.smt2, 0.007838, SAT, a__10 = 0 a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 1 a__9 = 0 b__13 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT171175975508767855.smt2, 0.009087, SAT, a__1 = 0 a__10 = 0 a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1713177946507536090.smt2, 180.000439, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT172200405223484420.smt2, 0.005639, SAT, a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1724615972126073513.smt2, 180.000152, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1725820872639741704.smt2, 180.000151, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1728396015922476285.smt2, 180.000459, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1735676597233097273.smt2, 0.004599, SAT, a__10 = 0 a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 1 a__9 = 0 b__11 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1738667431208030512.smt2, 180.000225, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1740983214503071791.smt2, 0.171700, SAT, a__1 = 0 a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 0 b__17 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1741424499531822568.smt2, 0.001559, SAT, a__11 = 0 a__3 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__12 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT174156337543845992.smt2, 180.000621, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1747479424109945297.smt2, 180.000291, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1750284694627347091.smt2, 180.000203, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1752975938798302550.smt2, 180.000274, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1754604117811901615.smt2, 180.000194, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1757155135601557622.smt2, 180.000158, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1762851132686701632.smt2, 180.000183, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1765930706641374942.smt2, 180.000259, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1768500490663685642.smt2, 180.000209, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1770730594634952017.smt2, 26.551535, SAT, a__10 = 1 a__12 = 0 a__13 = 1 a__14 = 0 a__15 = 1 a__17 = 0 a__18 = 1 a__19 = 0 a__2 = 1 a__20 = 1 a__22 = 0 a__23 = 1 a__24 = 1 a__25 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1777322512907612003.smt2, 180.000669, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1779881271979836083.smt2, 54.539747, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__14 = 0 a__15 = 1 a__16 = 1 a__17 = 0 a__18 = 1 a__19 = 0 a__2 = 1 a__20 = 1 a__21 = 1 a__22 = 1 a__23 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1783503320687046642.smt2, 180.000253, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT178977268304429168.smt2, 180.000342, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1790937070082021408.smt2, 26.635343, SAT, a__1 = 1 a__10 = 1 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 1 a__16 = 0 a__17 = 0 a__18 = 0 a__2 = 0 a__3 = 0 a__4 = 0 a__5 = 0 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__19 = 0 b__20 = 1 b__21 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1794145880067403233.smt2, 180.000603, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1798202376881827828.smt2, 0.006275, SAT, a__10 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__8 = 0 a__9 = 0 b__11 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1799186230733115040.smt2, 180.000235, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1799686351648644182.smt2, 0.017371, SAT, a__10 = 1 a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 1 b__11 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1802082844053698751.smt2, 180.000195, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT180444191153863419.smt2, 180.000310, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1810537700181250043.smt2, 180.000539, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1813676864021281701.smt2, 180.000548, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1814649182334283223.smt2, 180.000335, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1822723419756879764.smt2, 180.000278, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1826332378088029491.smt2, 180.000304, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1826366838353424870.smt2, 180.000255, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1832939841447591359.smt2, 180.000238, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1834216988929529060.smt2, 0.553398, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__17 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1836198750076062555.smt2, 180.000504, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1839246186440994117.smt2, 180.000510, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1850329964250764876.smt2, 0.004900, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1850337795300350182.smt2, 180.000576, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1850808180746377437.smt2, 0.005609, SAT, a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 b__8 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1852401955408116617.smt2, 0.045634, SAT, a__1 = 0 a__11 = 1 a__13 = 1 a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 1 b__14 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1854459151542430345.smt2, 0.002220, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1855776014026624497.smt2, 26.265084, SAT, a__10 = 1 a__11 = 0 a__12 = 1 a__14 = 0 a__15 = 1 a__16 = 0 a__17 = 1 a__19 = 0 a__2 = 1 a__20 = 1 a__21 = 0 a__22 = 1 a__25 = 0 a__26 = 1 a__28 = 1 a__29 = 1 a__3 = 0 a__4 = 1 a__6 = 0 a__7 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT185813161521293895.smt2, 0.002422, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 1 a__20 = 0 a__21 = 0 a__22 = 0 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__23 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT185857169594433069.smt2, 180.000804, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1861264030101834974.smt2, 180.000174, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1863907909411133651.smt2, 180.000269, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1867799095526883512.smt2, 6.136105, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__15 = 0 a__16 = 1 a__17 = 0 a__18 = 1 a__19 = 0 a__2 = 1 a__20 = 1 a__24 = 1 a__25 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1869857692920079266.smt2, 0.004468, SAT, a__10 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1870041707088237226.smt2, 180.000217, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1870275770187993289.smt2, 180.000345, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1871881823724796554.smt2, 180.001499, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1871996713396507848.smt2, 180.000279, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1874165513013660871.smt2, 180.000215, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1876337480387607689.smt2, 180.002344, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT18817844084034737.smt2, 0.026315, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 b__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1884997914915663852.smt2, 180.000257, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1891333027055652499.smt2, 180.000168, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1891643987125086214.smt2, 0.005711, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 b__8 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1893610996602385108.smt2, 180.000415, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1899084582005403528.smt2, 0.020379, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 0 b__15 = 0 b__16 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1900831310481572281.smt2, 0.250774, SAT, a__10 = 1 a__11 = 1 a__12 = 0 a__13 = 1 a__14 = 1 a__15 = 1 a__16 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1901896504511143320.smt2, 180.000177, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1903085593453410231.smt2, 0.027698, SAT, a__10 = 0 a__11 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__12 = 1 b__13 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1904205801033572938.smt2, 180.000309, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1905891522022442372.smt2, 0.029073, SAT, a__10 = 0 a__11 = 1 a__12 = 1 a__13 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1909899370567820557.smt2, 180.000199, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT191275437130012394.smt2, 0.005411, SAT, a__2 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1915449864335098033.smt2, 0.001278, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1918662598883852.smt2, 180.000248, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1921934893170238498.smt2, 0.005499, SAT, a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1924471989358702753.smt2, 180.000220, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1925431407371080493.smt2, 180.000263, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1932504877138431957.smt2, 180.000139, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1935117728403271514.smt2, 85.122732, SAT, a__2 = 0 a__3 = 64 a__4 = 0 a__5 = 64 a__6 = 64 a__7 = 64 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1940736280721199357.smt2, 180.000353, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1946006857087300269.smt2, 180.000150, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1957380023642536551.smt2, 0.005283, SAT, a__1 = 0 a__10 = 0 a__11 = 1 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 1 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1966152016913083942.smt2, 180.000156, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1968356054097123237.smt2, 180.000211, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1970412385768895017.smt2, 180.000180, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1974177102832544503.smt2, 180.001041, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1981975583113919849.smt2, 180.000176, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1985461538337735884.smt2, 0.001169, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT1988989355889096288.smt2, 180.000195, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT199924319808952062.smt2, 0.006127, SAT, a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 b__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2000554635680853132.smt2, 180.001837, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2009100678255555196.smt2, 180.000214, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2010284621257259251.smt2, 180.000250, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT201132202294598618.smt2, 180.000263, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT201343392445663280.smt2, 180.000232, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT201351602224939005.smt2, 180.000239, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2019035133165979665.smt2, 180.000295, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2019264686462914243.smt2, 0.006330, SAT, a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2024393323504547881.smt2, 0.001058, SAT, a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 1 a__6 = 1 b__7 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2025442241669063892.smt2, 180.000831, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2031006811963804938.smt2, 180.000287, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2031186289822687362.smt2, 180.001751, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2034270424531914423.smt2, 180.000318, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2044847837117464973.smt2, 0.003846, SAT, a__10 = 0 a__11 = 0 a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 b__12 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2045119413208078388.smt2, 180.000280, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2045146210738691450.smt2, 0.620460, SAT, a__1 = 0 a__10 = 1 a__11 = 0 a__12 = 1 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 0 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 1 b__20 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2050057098634636689.smt2, 180.000217, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2053186852308641598.smt2, 0.035145, SAT, a__11 = 1 a__12 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2054940669490607112.smt2, 0.003026, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 b__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT205663757693830508.smt2, 180.000221, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT205711926841620090.smt2, 180.000288, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2059890911796961568.smt2, 180.000286, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2061930632730522219.smt2, 0.006173, SAT, a__10 = 0 a__3 = 1 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 1 b__12 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT206305505307433843.smt2, 180.000217, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2063967765068105921.smt2, 0.130994, SAT, a__1 = 0 a__10 = 0 a__11 = 1 a__13 = 1 a__14 = 0 a__15 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2065168504950039163.smt2, 180.000278, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2074126738747006657.smt2, 180.000229, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2075489539010646787.smt2, 180.000176, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2076531344324430683.smt2, 1.134967, SAT, a__10 = 1 a__11 = 0 a__12 = 1 a__13 = 0 a__14 = 1 a__15 = 1 a__16 = 0 a__17 = 1 a__18 = 1 a__19 = 1 a__2 = 1 a__20 = 1 a__3 = 0 a__4 = 1 a__7 = 0 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2079897998118755280.smt2, 180.000214, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2080970443407093756.smt2, 0.006504, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__10 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2081725368205964132.smt2, 180.000623, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT208617998158592834.smt2, 180.000215, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2091325641578877395.smt2, 180.000262, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2096995205177976112.smt2, 180.000203, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2100433134187707158.smt2, 180.000218, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2103831101029994911.smt2, 0.005714, SAT, a__2 = 1 a__4 = 0 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2104748456448998709.smt2, 180.000350, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2109950939724639568.smt2, 0.007635, SAT, a__10 = 1 a__3 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__11 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2119025499719165182.smt2, 16.678369, SAT, a__1 = 0 a__10 = 1 a__11 = 1 a__12 = 0 a__13 = 0 a__14 = 1 a__15 = 0 a__16 = 1 a__17 = 0 a__18 = 0 a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 b__19 = 0 b__20 = 0 b__21 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2121262338709227533.smt2, 180.000173, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2121292005079447352.smt2, 180.000398, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2122551038128423419.smt2, 0.002734, SAT, a__2 = 0 a__3 = 1 a__5 = 0 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2123657877861531207.smt2, 180.000263, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2125412309997256252.smt2, 51.795264, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 0 a__20 = 0 a__21 = 0 a__22 = 0 a__23 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 b__24 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2126642735045670106.smt2, 180.000197, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2130197114478452371.smt2, 180.000239, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2138806821348299123.smt2, 180.000221, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2140962517915524917.smt2, 180.000179, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2142784755099170345.smt2, 0.042265, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__14 = 1 a__15 = 1 a__16 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__7 = 0 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2145410192430227438.smt2, 6.171645, SAT, a__10 = 0 a__11 = 1 a__12 = 1 a__13 = 0 a__14 = 1 a__15 = 1 a__16 = 0 a__17 = 1 a__18 = 1 a__19 = 1 a__2 = 1 a__20 = 1 a__21 = 1 a__3 = 0 a__4 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2154739971971205082.smt2, 0.005701, SAT, a__2 = 1 a__4 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2155634762438664128.smt2, 180.001685, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2157365016318083112.smt2, 26.672018, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__14 = 0 a__15 = 1 a__16 = 1 a__17 = 0 a__18 = 1 a__19 = 0 a__2 = 1 a__20 = 1 a__21 = 1 a__22 = 1 a__23 = 1 a__3 = 0 a__4 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2158114964317463984.smt2, 0.007115, SAT, a__10 = 0 a__11 = 0 a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 b__12 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2163640444650240229.smt2, 180.000244, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT216462801678736982.smt2, 180.000179, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2169947826556866694.smt2, 11.553470, SAT, a__10 = 0 a__11 = 0 a__12 = 1 a__13 = 0 a__14 = 1 a__15 = 0 a__16 = 0 a__17 = 1 a__18 = 0 a__19 = 1 a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__20 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2176113356808835898.smt2, 180.000174, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2177247277262436215.smt2, 0.008502, SAT, a__10 = 0 a__11 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__12 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2180393309678538513.smt2, 0.002439, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__17 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2180870078806303650.smt2, 180.000270, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2189051876526621929.smt2, 0.073704, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__15 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 b__16 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2200431342265122737.smt2, 0.013983, SAT, a__10 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 1 a__9 = 0 b__11 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2200853247899836240.smt2, 180.000177, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2203903620101592199.smt2, 180.000130, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2203987609686087470.smt2, 180.000147, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2211103848473125371.smt2, 0.053772, SAT, a__10 = 1 a__11 = 1 a__12 = 1 a__13 = 1 a__14 = 1 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2211851240001759024.smt2, 0.206228, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 b__16 = 0 b__17 = 1 b__18 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2214668917450755150.smt2, 180.000376, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT221654206070531325.smt2, 3.631092, SAT, a__1 = 0 a__10 = 1 a__11 = 0 a__12 = 0 a__13 = 1 a__14 = 1 a__15 = 0 a__16 = 1 a__17 = 1 a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 b__18 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2217993778086906389.smt2, 0.006376, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2218433640803157331.smt2, 0.001032, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2219537502583334158.smt2, 180.000398, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2220196994468472054.smt2, 76.335379, SAT, a__1 = 0 a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 1 a__16 = 1 a__17 = 0 a__18 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__19 = 0 b__20 = 0 b__21 = 0 b__22 = 1 b__23 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2223256883174158122.smt2, 180.000220, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2248243474470056064.smt2, 0.009159, SAT, a__10 = 0 a__11 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 0 b__12 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2249670056167438790.smt2, 0.000937, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT225476591979008271.smt2, 0.015990, SAT, a__1 = 0 a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 0 a__14 = 1 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2255228527935053292.smt2, 180.000260, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2256159023721325971.smt2, 0.004814, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2260922596628801082.smt2, 0.004518, SAT, a__10 = 0 a__2 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 b__11 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2266438243928897892.smt2, 180.000169, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2267890378492720718.smt2, 180.000376, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT226894020986703971.smt2, 180.000200, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2271093326661303672.smt2, 180.000221, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2273852946944042795.smt2, 180.000599, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2274009016844639770.smt2, 88.682177, SAT, a__2 = 64 a__3 = 0 a__4 = 0 a__5 = 64 a__6 = 64 a__7 = 64 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2276070888632403184.smt2, 180.000623, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2276398888104218594.smt2, 1.510222, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 b__18 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2279546529930018049.smt2, 180.001088, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2284713702359166896.smt2, 180.000273, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2289768799678770902.smt2, 0.021007, SAT, a__10 = 1 a__11 = 1 a__12 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2293851291853126493.smt2, 180.000209, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2295621871619130942.smt2, 180.000188, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2296275346109531321.smt2, 0.010947, SAT, a__10 = 0 a__11 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2305872787415906654.smt2, 180.000213, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2306111754226422167.smt2, 180.000178, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2309033674141464755.smt2, 0.053076, SAT, a__10 = 1 a__11 = 0 a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 1 b__12 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2309057211130479784.smt2, 0.115680, SAT, a__10 = 1 a__11 = 1 a__12 = 0 a__13 = 1 a__14 = 1 a__15 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2311630272619652453.smt2, 1.180189, SAT, a__10 = 1 a__11 = 0 a__12 = 1 a__14 = 0 a__15 = 1 a__16 = 0 a__17 = 1 a__19 = 0 a__2 = 1 a__20 = 1 a__21 = 1 a__22 = 1 a__3 = 0 a__4 = 1 a__6 = 0 a__7 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2313612983845754801.smt2, 180.000373, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2315623815142209104.smt2, 180.000182, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2316535250821506157.smt2, 180.000398, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2322179511678559502.smt2, 0.060911, SAT, a__1 = 0 a__10 = 0 a__11 = 0 a__12 = 1 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 0 a__20 = 0 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__21 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2331608993226750467.smt2, 0.001353, SAT, a__2 = 1 a__4 = 1 a__5 = 0 a__6 = 0 a__8 = 0 b__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT233295163504864559.smt2, 180.000278, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT233357233309295005.smt2, 0.058450, SAT, a__10 = 1 a__11 = 1 a__12 = 1 a__13 = 1 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT23351221134153985.smt2, 180.000350, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2338691775363015641.smt2, 0.048803, SAT, a__3 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2339601972147165362.smt2, 0.121733, SAT, a__1 = 0 a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 0 b__16 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2342232429725814709.smt2, 180.000447, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2343912548139256768.smt2, 12.976650, SAT, a__10 = 1 a__11 = 0 a__12 = 1 a__13 = 0 a__14 = 1 a__15 = 1 a__16 = 0 a__17 = 1 a__18 = 0 a__19 = 1 a__2 = 1 a__20 = 1 a__21 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2344836628067265548.smt2, 0.005449, SAT, a__3 = 1 a__5 = 0 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2350462964939983297.smt2, 180.000448, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2355004445894478329.smt2, 180.000286, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2357409284306338375.smt2, 180.000519, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2359969224185831181.smt2, 0.041127, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__2 = 0 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 0 a__9 = 0 b__19 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT236580308612717708.smt2, 1.631421, SAT, a__10 = 0 a__11 = 1 a__12 = 0 a__13 = 1 a__15 = 0 a__16 = 1 a__17 = 0 a__18 = 1 a__2 = 1 a__20 = 1 a__21 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2366205485937395070.smt2, 180.000408, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2367863771615675383.smt2, 0.017243, SAT, a__10 = 1 a__11 = 1 a__12 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT237454731236054743.smt2, 0.007469, SAT, a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2374751765494190939.smt2, 0.385933, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 b__14 = 1 b__15 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2385760151885187125.smt2, 0.001875, SAT, a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2388834235300885370.smt2, 180.000322, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2389678176018104035.smt2, 180.000857, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2395992862592236847.smt2, 180.000281, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2403449578311311444.smt2, 180.000604, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2409578890815829527.smt2, 0.055394, SAT, a__10 = 1 a__11 = 0 a__12 = 1 a__13 = 1 a__14 = 1 a__15 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__6 = 0 a__7 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2412026111423056678.smt2, 180.000323, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2416278647016285561.smt2, 180.000315, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2423766902024488209.smt2, 180.000221, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2424537754189077965.smt2, 180.000191, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2426870144660770468.smt2, 180.000789, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2430614908524774429.smt2, 0.031696, SAT, a__10 = 1 a__11 = 1 a__12 = 1 a__13 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT243075587948004402.smt2, 36.388491, SAT, a__1 = 0 a__10 = 0 a__11 = 0 a__12 = 1 a__13 = 0 a__14 = 1 a__15 = 1 a__16 = 0 a__17 = 0 a__18 = 1 a__19 = 0 a__2 = 0 a__20 = 0 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 1 b__21 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2432885399846559546.smt2, 0.006313, SAT, a__1 = 0 a__10 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT243342921505036632.smt2, 180.000243, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2438587337906934245.smt2, 180.000282, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2440441682081812101.smt2, 118.039014, SAT, a__1 = 0 a__10 = 0 a__11 = 1 a__12 = 1 a__13 = 1 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 0 a__20 = 0 a__21 = 1 a__22 = 1 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 0 b__23 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2447638175589447274.smt2, 0.006500, SAT, a__10 = 0 a__11 = 0 a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 b__12 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2448708927263734800.smt2, 0.024873, SAT, a__11 = 0 a__12 = 1 a__13 = 0 a__14 = 1 a__15 = 1 a__16 = 1 a__17 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__7 = 0 a__8 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2449356678853584219.smt2, 180.000740, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2451769325268271212.smt2, 0.017223, SAT, a__10 = 1 a__2 = 1 a__3 = 1 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 1 b__11 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2452659166684073475.smt2, 180.000250, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2460900881694017534.smt2, 180.000323, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2467769011678516224.smt2, 0.012429, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 0 b__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2469333241019550276.smt2, 180.000434, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2474380824660996322.smt2, 180.001738, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2477805317391230600.smt2, 0.398469, SAT, a__1 = 0 a__10 = 0 a__11 = 0 a__12 = 1 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__19 = 0 a__2 = 0 a__20 = 0 a__3 = 1 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 0 b__21 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2487505398359820795.smt2, 180.000256, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT24878745111098048.smt2, 180.000221, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2488218374684739626.smt2, 180.000260, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2489061391670657311.smt2, 0.013870, SAT, a__10 = 1 a__11 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2493881658895874595.smt2, 180.000259, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2494806463307417902.smt2, 0.324121, SAT, a__10 = 1 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 1 a__2 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 1 a__9 = 0 b__15 = 1 b__16 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2495988998569656908.smt2, 0.004376, SAT, a__2 = 1 a__4 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2498402767747394702.smt2, 0.060750, SAT, a__1 = 0 a__10 = 0 a__11 = 1 a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 a__9 = 1 b__12 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2499956049385713736.smt2, 180.000238, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2503550297791894163.smt2, 180.000404, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2513843807668263184.smt2, 180.000241, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2514888470147653584.smt2, 180.000230, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2523443647572090418.smt2, 180.000274, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2523854488582952690.smt2, 173.977117, SAT, a__2 = 1 a__3 = 2 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 2 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2529268834303781104.smt2, 180.000205, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2535347037270425859.smt2, 180.000191, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2539664298233168588.smt2, 180.000195, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2543285307513570397.smt2, 180.000428, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2549576622228336898.smt2, 180.000181, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT255108115550614768.smt2, 180.000294, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2554337305402463637.smt2, 180.000262, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2556289745153017722.smt2, 180.000223, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2560551492226655703.smt2, 180.000749, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT256227000274928233.smt2, 180.000257, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2567380747571638952.smt2, 180.000275, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2570353582767781543.smt2, 0.010140, SAT, a__2 = 1 a__3 = 0 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 b__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2573120590079982700.smt2, 180.000194, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2573139127061621972.smt2, 0.354957, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 1 a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 1 a__9 = 0 b__15 = 1 b__16 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2576454593548696859.smt2, 0.006155, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__13 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT257699921050028985.smt2, 139.077901, SAT, a__10 = 1 a__11 = 0 a__12 = 1 a__13 = 1 a__14 = 1 a__15 = 0 a__16 = 1 a__17 = 1 a__18 = 0 a__19 = 1 a__2 = 1 a__20 = 0 a__21 = 1 a__22 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 a__9 = 0 b__23 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2580822509597214828.smt2, 180.000306, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT258682010928380630.smt2, 180.000246, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2589880449664279506.smt2, 180.000409, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2590547747510825500.smt2, 180.000188, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2593320806111952030.smt2, 180.000333, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2593776817975882176.smt2, 180.000269, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2596287095984261657.smt2, 180.001060, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2597729462879587278.smt2, 0.009460, SAT, a__10 = 1 a__11 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2598777028614012130.smt2, 180.000380, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2618529264057405412.smt2, 6.023188, SAT, a__10 = 0 a__11 = 1 a__13 = 0 a__14 = 1 a__15 = 0 a__16 = 1 a__17 = 0 a__18 = 1 a__19 = 1 a__2 = 1 a__20 = 1 a__21 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2619974345132465371.smt2, 0.017389, SAT, a__10 = 1 a__11 = 1 a__12 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2631357328519238424.smt2, 0.024861, SAT, a__10 = 0 a__11 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__12 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2632098249079857042.smt2, 0.000677, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2634263648950000441.smt2, 180.000229, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT263445627778943920.smt2, 0.005454, SAT, a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2636501751373060353.smt2, 0.001710, SAT, a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 b__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2638524212114105045.smt2, 0.056990, SAT, a__11 = 0 a__12 = 1 a__14 = 0 a__15 = 1 a__16 = 1 a__17 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2642294598444150593.smt2, 180.000241, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2642669000743942131.smt2, 180.000235, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2651329488883683713.smt2, 0.001420, SAT, a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 0 a__6 = 1 a__7 = 1 a__8 = 1 b__10 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2652699427193514179.smt2, 180.000477, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2655174453084297570.smt2, 180.000350, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT265556433380811208.smt2, 180.000218, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT265925057088562932.smt2, 180.000169, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2664124296678887647.smt2, 180.000196, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2664914244390950514.smt2, 180.000285, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2669715706485161637.smt2, 180.000420, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2678149093905864935.smt2, 52.185944, SAT, a__1 = 0 a__10 = 1 a__11 = 0 a__13 = 1 a__14 = 0 a__15 = 1 a__16 = 0 a__17 = 0 a__18 = 1 a__19 = 0 a__2 = 1 a__20 = 1 a__21 = 1 a__22 = 0 a__23 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 1 a__9 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2684571233884755734.smt2, 180.000313, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2687775009516104110.smt2, 180.000212, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2687825159257353965.smt2, 0.006735, SAT, a__2 = 1 a__4 = 1 a__5 = 0 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__10 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2690267365773690041.smt2, 0.144542, SAT, a__1 = 0 a__10 = 0 a__11 = 0 a__13 = 0 a__15 = 0 a__2 = 0 a__3 = 0 a__4 = 0 a__5 = 0 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 1 b__16 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2691411734729229963.smt2, 180.000589, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2691792941397936620.smt2, 0.005864, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__13 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT269283320009384599.smt2, 25.280974, SAT, a__1 = 1 a__10 = 1 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__17 = 0 a__18 = 0 a__2 = 0 a__3 = 0 a__4 = 0 a__5 = 0 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 0 b__19 = 0 b__20 = 1 b__21 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2694590358944701979.smt2, 0.539535, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__13 = 0 a__14 = 0 a__15 = 0 a__16 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 0 a__8 = 1 a__9 = 0 b__17 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2696057869336185968.smt2, 180.000242, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2699900447604388519.smt2, 0.006206, SAT, a__10 = 0 a__12 = 0 a__13 = 0 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 0 b__14 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2705179445659885478.smt2, 0.029074, SAT, a__10 = 1 a__11 = 1 a__12 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 1 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2705626347936955345.smt2, 180.000243, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2707530709975626340.smt2, 180.000166, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT271923944066788666.smt2, 180.000239, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2720024755947797885.smt2, 180.000172, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2727005535650254931.smt2, 180.000787, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2732622028932418350.smt2, 180.001255, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2736278855047046880.smt2, 180.000300, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2741399327244042018.smt2, 180.000178, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2742927322224730765.smt2, 180.000193, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2748583918758924107.smt2, 0.005391, SAT, a__2 = 0 a__3 = 1 a__5 = 0 a__6 = 0 a__8 = 0 a__9 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2753511217235430255.smt2, 180.000247, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2754058096644301362.smt2, 180.000359, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2755594976371810516.smt2, 180.000268, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2755723270198307319.smt2, 0.000764, SAT, a__3 = 1 a__6 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2761457476330716190.smt2, 180.000266, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2769042029123848570.smt2, 86.776974, SAT, a__1 = 0 a__10 = 0 a__11 = 1 a__12 = 1 a__13 = 0 a__14 = 1 a__15 = 0 a__16 = 1 a__17 = 0 a__18 = 1 a__2 = 1 a__3 = 0 a__4 = 1 a__5 = 0 a__6 = 0 a__7 = 1 a__8 = 0 a__9 = 1 b__19 = 1 b__20 = 1 b__21 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2771904706298318922.smt2, 0.000832, SAT, a__2 = 1 a__3 = 1 a__5 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT277795045419264694.smt2, 180.000305, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2778480417989547240.smt2, 180.000308, Not SAT
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2781663379465047703.smt2, 0.051487, SAT, a__10 = 0 a__11 = 0 a__12 = 0 a__2 = 1 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 0 a__7 = 0 a__8 = 0 a__9 = 1 b__13 = 1 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2789640252157438255.smt2, 0.008739, SAT, a__10 = 0 a__11 = 0 a__2 = 0 a__3 = 1 a__4 = 0 a__5 = 1 a__6 = 1 a__7 = 1 a__8 = 0 a__9 = 0 b__12 = 0 
+/mnt/c/Users/Leonid/Desktop/BIE-BAP/code/test/AProve/aproveSMT2794796850598932134.smt2, 0.000961, SAT, a__2 = 0 a__3 = 1 a__5 = 1 

@@ -96,6 +96,8 @@ int main(int argc, char *argv[]) {
 
 //    MINUS_INF = -64;
 //    PLUS_INF = -(MINUS_INF);
+
+// Defining the constants of start and end of interval
     MINUS_INF = 0;
     PLUS_INF = 1;
 
